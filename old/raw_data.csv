@@ -1,0 +1,565 @@
+Bestseller,Genre,GenreBin,Title,Author,Published Year,Publisher,Page,Price,Reference by person,Reference by Magazine,authorgender(male0fe1team2),isFirstBestSeller,Duration,Duration1,Duration2(0=S1=L2=etc),Impact
+2020,Biographies&Memoirs,1,Too Much and Never Enough: How My Family・,Mary L. Trump Ph.D.,2020,Simon & Schuster,240,28,0,3,1,1,1(2020),2,2,65000
+2020,Children'sBooks,3,My First Learn to Write Workbook: Practice for・,Crystal Radke,2019,Rockridge Press,84,8.99,0,0,1,1,1(2020),2,2,24420
+2020,Teen&Youngadult,6,Midnight Sun,Stephenie Meyer,2020,Little Brown Books for Young Readers ,672,27.99,0,4,1,0,1(2020),2,2,125000
+2020,Business&SelfHelp,2,Untamed,Glennon Doyle,2020,The Dial Press ,352,28,1,0,1,1,1(2020),2,2,32500
+2020,Politics&SocialSciences,7,The Room Where It Happened: A White House・,John Bolton,2020,Simon & Schuster,592,32.5,0,3,0,1,1(2020),2,2,10500000
+2020,Politics&SocialSciences,7,White Fragility: Why It's So Hard for White・,Robin DiAngelo,2018,Beacon Press,192,16,0,0,0,1,1(2020),2,2,31581
+2020,Teen&Youngadult,6,The Ballad of Songbirds and Snakes (A Hunger・,Suzanne Collins,2020,Scholastic Press ,528,27.99,0,5,1,0,1(2020),2,2,261000
+2020,Politics&SocialSciences,7,How to Be an Antiracist,Ibram X. Kendi,2019,One World,320,28,0,1,0,1,1(2020),2,2,23980
+2020,Politics&SocialSciences,7,Rage,Bob Woodward,2020,Simon & Schuster,480,30,0,0,0,0,1(2020),2,2,281000
+2020,Literature&Fiction,6,Little Fires Everywhere,Celeste Ng,2019,Penguin Books,368,17,1,8,1,0,1(2020),2,2,78980
+2020,Children'sBooks,3,Dog Man: Grime and Punishment: From the・,Dav Pilkey,2020,Graphix,240,12.99,0,2,1,0,1(2020),2,2,51800
+2020,Literature&Fiction,6,American Dirt (Oprah's Book Club),Jeanine Cummins,2020,Flatiron Books ,387,27.99,0,0,1,1,1(2020),2,2,14100
+2020,CookbooksFood&Wine,4,Magnolia Table Volume 2: A Collection of・,Joanna Gaines,2020,HarperCollinsPublishers,352,35,0,0,1,0,1(2020),2,2,242000
+2020,Politics&SocialSciences,7,Live Free Or Die: America (and the World) on the・,Sean Hannity,2020,Threshold Editions ,352,30,0,0,0,0,1(2020),2,2,162000
+2020,Biographies&Memoirs,1,The Splendid and the Vile: A Saga of Churchill・,Erik Larson,2020,Crown ,608,32,1,4,0,0,1(2020),2,2,1.18E+05
+2020,Children'sBooks,3,How to Catch a Mermaid,Adam Wallace,2018,Sourcebooks Wonderland ,40,10.99,0,0,0,1,1(2020),2,2,379940
+2020,Politics&SocialSciences,7,Caste (Oprah's Book Club): The Origins of Our・,Isabel Wilkerson,2020,Random House ,496,32,1,5,1,1,1(2020),2,2,30600
+2020,Children'sBooks,3,Human Body Activity Book for Kids: Hands-On・,Ph.D. Katie Stokes M.Ed.,2019,Rockridge Press ,68,8.99,0,0,0,1,1(2020),2,2,12760
+2020,Religion&Spirituality,0,Get Out of Your Head: Stopping the Spiral of・,Jennie Allen,2020,WaterBrook,256,24.5,0,0,1,1,1(2020),2,2,111000
+2020,Children'sBooks,3,The Big Book of Silly Jokes for Kids: 800+ Jokes!,Carole P. Roman,2019,Rockridge Press ,160,9.99,0,0,0,1,1(2020),2,2,804100
+2020,Business&SelfHelp,2,Burn After Writing,Sharon Jones,2015,TarcherPerigee ,160,14,0,0,1,1,1(2020),2,2,468658.41
+2020,Business&SelfHelp,2,The Boy the Mole the Fox and the Horse,Charlie Mackesy,2019,HarperOne,128,22.99,0,1,1,1,1(2020),2,2,21450
+2020,Children'sBooks,3,Paint by Sticker Kids: Unicorns & Magic: Create・,Workman Publishing,2019,Workman Publishing Company,34,9.95,0,0,1,1,1(2020),2,2,67760
+2020,Children'sBooks,3,I Love You to the Moon and Back,Amelia Hepworth,2015,Tiger Tales,28,9.99,0,0,0,1,1(2020),2,2,1723.2457
+2020,Politics&SocialSciences,7,Just Mercy: A Story of Justice and Redemption,Bryan Stevenson,2015,One World,368,17,0,1,0,1,1(2020),2,2,67802.471
+2020,Children'sBooks,3,Chicka Chicka Boom Boom (Board Book),Bill Martin Jr.,2012,Little Simon ,36,7.99,0,0,1,0,4,1,1,312963.9663
+2020,Children'sBooks,3,How to Catch a Unicorn,Adam Wallace,2019,Sourcebooks Wonderland ,40,10.99,0,0,0,1,1(2020),2,2,356400
+2020,Politics&SocialSciences,7,Disloyal: A Memoir: The True Story of the Former・,Michael Cohen,2020,Skyhorse Publishing,432,32,0,0,0,1,1(2020),2,2,29200000
+2020,Religion&Spirituality,0,Prayer Journal for Women: 52 Week Scripture・,Nancy Grace,2020,Independently published ,105,6.99,0,0,1,1,1(2020),2,2,20500000
+2020,Children'sBooks,3,I've Loved You Since Forever,Hoda Kotb,2018,HarperCollins,32,8.99,0,2,1,1,1(2020),2,2,31823
+2020,Business&SelfHelp,2,So You Want to Talk About Race,Ijeoma Oluo,2019,Seal Press,272,16.99,0,0,1,1,1(2020),2,2,5643
+2020,Literature&Fiction,6,The Vanishing Half,Brit Bennett,2020,Riverhead Books ,352,27,1,9,1,1,1(2020),2,2,72700
+2020,Children'sBooks,3,My First Toddler Coloring Book: Fun with・,Tanya Emelyanova (Illustrator,2018,Rockridge Press,96,5.99,0,0,0,1,1(2020),2,2,93.17
+2020,History,7,Stamped from the Beginning: The Definitive・,Ibram X. Kendi,2017,Bold Type Books,608,19.99,0,3,0,1,1(2020),2,2,21695.3
+2020,Children'sBooks,3,Preschool Math Workbook for Toddlers Ages 2-4:・,Modern Kid Press,2019,Modern Kid Press ,83,6.99,0,0,1,0,1(2020),2,2,20020000
+2020,Biographies&Memoirs,1,The Mamba Mentality: How I Play,Kobe Bryant,2018,MCD,208,35,0,4,0,1,1(2020),2,2,8070700
+2020,Children'sBooks,3,School Zone - Multiplication 0-12 Flash Cards・,School Zone,2015,School Zone Publishing,56,2.99,0,0,0,0,1(2020),2,2,55401544
+2020,Religion&Spirituality,0,Relationship Goals: How to Win at Dating・,Michael Todd,2020,WaterBrook,208,23,0,0,0,1,1(2020),2,2,24700000
+2020,Children'sBooks,3,Awesome Science Experiments for Kids: 100+・,Crystal Chatterton,2018,Rockridge Press ,254,14.99,0,0,1,1,1(2020),2,2,3569.5
+2020,Politics&SocialSciences,7,The Color of Law: A Forgotten History of How・,Richard Rothstein,2018,Liveright,368,27.95,0,0,1,1,1(2020),2,2,28072
+2020,Children'sBooks,3,Paint by Sticker Kids: Zoo Animals: Create 10・,Workman Publishing,2016,Workman Publishing Company,34,9.95,0,0,1,1,1(2020),2,2,45240.69
+2020,Children'sBooks,3,Learn to Read: A Magical Sight Words and・,Modern Kid Press,2019,Modern Kid Press ,104,6.99,0,0,1,0,1(2020),2,2,20130000
+2020,Children'sBooks,3,First Little Readers Parent Pack: Guided Reading・,Liza Charlesworth,2017,Teaching Resources,7,20.99,0,0,1,1,1(2020),2,2,1370.93
+2020,Children'sBooks,3,Llama Llama Loves Camping,Anna Dewdney (Creator,2018,Penguin Young Readers Licenses,24,4.99,0,0,1,1,1(2020),2,2,707.85
+2020,Religion&Spirituality,0,Man's Search for Meaning,Viktor E. Frankl,2006,Beacon Press,192,15,0,2,0,0,1(2020),2,2,47088.97936
+2020,Children'sBooks,3,Where's Spot?,Eric Hill ,2020,Warner,22,7.99,0,0,1,0,1(2020),2,2,28700000
+2020,Literature&Fiction,6,Normal People,Sally Rooney,2020,Hogarth,304,17,0,3,1,1,1(2020),2,2,88100
+2020,Literature&Fiction,6,The Giver of Stars,Jojo Moyes,2020,Pamela Dorman Books,127,28,0,0,1,0,1(2020),2,2,87400
+2020,HealthFitness&Dieting,5,Medical Medium Cleanse to Heal: Healing Plans・,Anthony William,2020,Hay House Inc.,592,34.99,0,0,1,0,1(2020),2,2,22900000
+2020,Children'sBooks,3,Kindergarten Math Workbook: Kindergarten and・,IXL Learning,2020,IXL Learning ,224,14.95,0,0,1,1,1(2020),2,2,48900
+2020,Politics&SocialSciences,7,Blackout: How Black America Can Make Its・,Candace Owens,2020,Threshold Editions ,320,28,0,0,0,1,1(2020),2,2,91520
+2020,Religion&Spirituality,0,God Gave Us You,Lisa Tawn Bergren,2000,WaterBrook Press,40,6.99,0,0,1,1,1(2020),2,2,1330
+2020,CookbooksFood&Wine,4,Modern Comfort Food: A Barefoot Contessa・,Ina Garten,2020,Clarkson Potter,256,35,0,0,1,0,1(2020),2,2,131000
+2020,Children'sBooks,3,The Deep End (Diary of a Wimpy Kid Book 15),Jeff Kinney,2020,Harry N. Abrams,224,14.99,0,2,0,0,1(2020),2,2,1.34E+05
+2020,Biographies&Memoirs,1,Greenlights,Matthew McConaughey,2020,Crown,306,30,0,0,0,1,1(2020),2,2,364210
+2020,Children'sBooks,3,Room on the Broom,Julia Donaldson,2003,Puffin Books,32,5,0,0,0,1,1(2020),2,2,204000
+2020,Politics&SocialSciences,7,Between the World and Me,Ta-Nehisi Coates,2015,One World,176,26,0,0,0,1,3,1,1,50380
+2020,Children'sBooks,3,Where the Wild Things Are,Maurice Sendak,2012,HarperCollins,48,19.95,0,0,0,0,1(2020),2,2,43700
+2020,Children'sBooks,3,The One and Only Ivan,Katherine Applegate,2015,HarperCollins,336,8.99,0,0,1,0,1(2020),2,2,79640
+2020,Biographies&Memoirs,1,A Promised Land,Barack Obama,2020,Crown ,768,45,2,1,1,0,1(2020),2,2,28900000
+2019,Literature&Fiction,6,Where the Crawdads Sing,Delia Owens,2017,G.P. Putnam's Sons,209,26,0,0,1,1,3,1,1,53800
+2019,Biographies&Memoirs,1,Becoming,Michelle Obama,2018,Crown,448,32.5,2,2,1,1,3,1,1,13100000
+2019,Biographies&Memoirs,1,Educated: A Memoir,Tara Westover,2018,Random House,352,28,2,5,0,1,3,1,1,32700
+2019,Children'sBooks,3,Dog Man: For Whom the Ball Rolls: From the・,Dav Pilkey,2019,Graphix,240,12.99,0,2,1,0,1,0,0,39800
+2019,Business&SelfHelp,2,Girl Wash Your Face: Stop Believing the Lies・,Rachel Hollis,2018,Thomas Nelson on Brilliance Audio,240,24.99,0,1,1,1,2,0,1,65098
+2019,Children'sBooks,3,Dog Man: Fetch-22: From the Creator of Captain・,Dav Pilkey,2019,Graphix,240,12.99,0,0,1,0,2(2019),2,1,48800
+2019,Children'sBooks,3,Wrecking Ball (Diary of a Wimpy Kid Book 14),Jeff Kinney,2019,Harry N. Abrams,224,14.99,0,2,0,0,1,0,0,1.08E+05
+2019,Children'sBooks,3,The Wonderful Things You Will Be,Emily Winfield Martin,2015,Random House Books for Young Readers,36,17.99,0,0,1,1,5,1,1,20300
+2019,Children'sBooks,3,School Zone - Big Preschool Workbook - Ages 4・,School Zone,2018,School Zone Publishing,320,12.99,0,0,0,1,3,1,1,139700000
+2019,Religion&Spirituality,0,The 5 Love Languages: The Secret to Love that・,Gary Chapman,2015,Northfield Publishing,208,17.99,0,0,0,0,10,1,1,155897.368
+2019,Business&SelfHelp,2,Girl Stop Apologizing: A Shame-Free Plan for・,Rachel Hollis,2019,Harpercollins Leadership,370,24.99,0,0,1,1,1,0,0,79860
+2019,Children'sBooks,3,The Wonky Donkey,Craig Smith,2010,Scholastic Paperbacks,24,7.99,0,0,0,1,3,1,1,21450000
+2019,Business&SelfHelp,2,The Subtle Art of Not Giving a F*ck: A・,Mark Manson,2019,Harper,224,26.99,0,0,0,1,4,1,1,127874.494
+2019,Children'sBooks,3,Difficult Riddles For Smart Kids: 300 Difficult・,M Prefontaine,2017,CreateSpace Independent Publishing Platform,79,5.48,0,0,1,1,1,0,0,16588.253
+2019,CookbooksFood&Wine,4,Salt Fat Acid Heat: Mastering the Elements of・,Samin Nosrat,2017,Simon and Schuster,480,37.5,0,3,1,1,2,0,1,6430.76643
+2019,Children'sBooks,3,The Very Hungry Caterpillar,Eric Carle,1981,World of Eric Carle ,32,21.99,0,0,1,0,8,1,1,138600
+2019,Children'sBooks,3,What Should Danny Do? (The Power to Choose・,"Adir Levy , Ganit Levy",2020,Elon Books,68,21.99,0,0,1,0,2(2019),2,1,330000
+2019,Religion&Spirituality,0,It's Not Supposed to Be This Way: Finding・,Lysa TerKeurst,2018,Thomas Nelson ,256,24.99,0,0,1,0,1,0,0,20300
+2019,Children'sBooks,3,I Am Confident Brave & Beautiful: A Coloring・,Hopscotch Girls,2017,Hopscotch Girls,24,9.5,0,0,1,1,2(2019),2,1,26620
+2019,Religion&Spirituality,0,The Four Agreements: A Practical Guide to・,Don Miguel Ruiz,1997,Amber-Allen Publishing Incorporated ,160,6.48,1,0,0,0,9,1,1,225500
+2019,Politics&SocialSciences,7,Unfreedom of the Press,Mark R. Levin,2019,Threshold Editions,272,28,0,5,1,0,1,0,0,170000
+2019,Children'sBooks,3,Dog Man: Brawl of the Wild: From the Creator of・,Dav Pilkey,2018,Graphix,224,24.99,0,2,1,0,2,0,1,30129
+2019,Children'sBooks,3,Giraffes Can't Dance,Giles Andreae,2012,Cartwheel Books,32,16.99,0,0,1,1,7,1,1,5403.86
+2019,Children'sBooks,3,If Animals Kissed Good Night,Ann Whitford Paul,2014,Farrar Straus and Giroux ,34,7.99,0,0,1,1,4,1,1,15620
+2019,Children'sBooks,3,Oh the Places You'll Go!,Dr. Seuss,1990,Random House Books for Young Readers ,56,18.99,0,0,0,0,10,1,1,5299800
+2019,Biographies&Memoirs,1,Howard Stern Comes Again,Howard Stern,2019,Simon & Schuster ,560,35,0,4,1,1,1,0,0,186819.2
+2019,Children'sBooks,3,Guts,Raina Telgemeier,2019,Graphix,224,12.99,0,6,1,1,1,0,0,19100
+2019,CraftsHobbies&Home,0,The Life-Changing Magic of Tidying Up: The・,Marie Kond_,2016,Ten Speed Press,304,16.99,0,12,0,1,5,1,1,127050
+2019,Teen&Youngadult,6,Harry Potter and the Goblet of Fire: The・,J.K. Rowling,2019,Arthur A. Levine Books,403,12.99,0,0,1,0,1,0,0,14399000
+2019,Children'sBooks,3,National Geographic Little Kids First Big Book of・,Elizabeth Carney,2015,National Geographic Kids,128,14.95,0,0,1,1,1,0,0,56807.08
+2019,CookbooksFood&Wine,4,Instant Pot Pressure Cooker Cookbook: 500・,Jessica Williams,2020,Independently published ,254,8.99,0,0,1,1,2,0,1,23650000
+2019,MedicalBooks,5,The Body Keeps the Score: Brain Mind and Body・,Bessel van der Kolk M.D.,2015,Penguin Books,464,14.99,0,0,1,1,3,1,1,2023.12
+2019,Business&SelfHelp,2,Good Days Start With Gratitude: A 52 Week・,Pretty Simple Press ,2020,CreateSpace Independent Publishing Platform,454,6.99,0,0,1,0,1,0,0,28919000
+2019,Children'sBooks,3,Goodnight Moon,Margaret Wise Brown,2005,HarperCollins,32,18.99,0,0,0,0,6,1,1,236584.1463
+2019,CookbooksFood&Wine,4,The Complete Ketogenic Diet for Beginners: Your・,Amy Ramos,2016,Rockridge Press ,158,11.99,0,0,0,1,3,1,1,264000
+2019,Children'sBooks,3,Unicorn Coloring Book: For Kids Ages 4-8 (US・,Silly Bear,2018,On The Hop Books Ltd,102,4.99,0,0,0,1,1,0,0,1470000
+2019,Literature&Fiction,6,Strange Planet (Strange Planet Series),Nathan W. Pyle,2020,Morrow Gift,144,14.99,0,0,0,1,1,0,0,25200
+2019,Literature&Fiction,6,Player's Handbook (Dungeons & Dragons),Wizards RPG Team,2014,Wizards of the Coast,320,22.96,0,0,0,0,4,1,1,57400
+2019,Literature&Fiction,6,The Silent Patient,Alex Michaelides,2019,Celadon Books,336,26.99,0,1,1,1,2(2019),2,1,23700
+2019,Children'sBooks,3,5000 Awesome Facts (About Everything!)・,National Geographic Kids,2014,National Geographic Kids,224,14.77,0,2,0,1,1,0,0,34800000
+2019,Teen&Youngadult,6,To Kill a Mockingbird,Harper Lee,2005,Harper Perennial ,336,15.99,0,1,1,0,7,1,1,400958.997
+2019,Business&SelfHelp,2,You Are a Badass: How to Stop Doubting Your・,Jen Sincero,2013,Running Press Adult,256,17,0,1,1,1,4,1,1,21700
+2019,Children'sBooks,3,National Geographic Kids Why?: Over 1111・,Crispin Boyer ,2020,National Geographic Kids,192,19.99,0,0,1,0,1,0,0,10100
+2019,Religion&Spirituality,0,Can't Hurt Me: Master Your Mind and Defy the・,David Goggins,2020,Lioncrest Publishing ,364,24.99,0,0,0,1,1,0,0,95900
+2019,Literature&Fiction,6,The Guardians,John Grisham,2019,Dell ,386,9.99,0,1,0,0,1,0,0,8.79E+04
+2019,Children'sBooks,3,P is for Potty! (Sesame Street) (Lift-the-Flap),Naomi Kleinberg,2014,Random House Books for Young Readers,12,5.68,0,0,1,1,4,1,1,1317.39718
+2019,Business&SelfHelp,2,The Total Money Makeover: Classic Edition: A・,Dave Ramsey,2013,Thomas Nelson,272,26.99,0,0,0,1,3,1,1,72024.58402
+2019,Children'sBooks,3,Brown Bear Brown Bear What Do You See?,Bill Martin Jr. and Eric Carle,2020,Henry Holt and Co. (BYR),24,8.99,0,0,1,0,6,1,1,7037.9287
+2019,CookbooksFood&Wine,4,The Unofficial Harry Potter Cookbook: From・,Dinah Bucholz,2010,Adams Media,256,10.99,0,3,1,1,1,0,0,22200
+2019,Politics&SocialSciences,7,The Mueller Report,The Washington Post,2019,Scribner ,736,15,0,4,0,1,1,0,0,157058000
+2019,Business&SelfHelp,2,Zen as F*ck (Zen as F*ck Journals),Monica Sweeney,2019,Castle Point Books ,128,14.99,0,0,1,1,2(2019),2,1,68849
+2019,Business&SelfHelp,2,Rich Dad Poor Dad: What the Rich Teach Their・,Robert T. Kiyosaki,2012,Plata Publishing,336,24.99,0,0,1,0,3,1,1,135520
+2019,Literature&Fiction,6,The Institute,Stephen King,2020,Scribner,576,34.99,0,0,1,0,1,0,0,30140000
+2019,Literature&Fiction,6,The Testaments: The Sequel to The Handmaid's・,Margaret Atwood,2019,Anchor ,381,16.95,0,6,1,0,1,0,0,205700
+2019,Children'sBooks,3,Super Deluxe Essential Handbook (Pok_mon):・,Scholastic,2018,Scholastic Inc.,496,14.99,0,0,0,0,1,0,0,9427000
+2019,Business&SelfHelp,2,Lettering and Modern Calligraphy: A Beginner's・,June & Lucy,2019,June & Lucy ,108,6.99,0,0,1,1,2,0,1,14630000
+2019,Children'sBooks,3,Carson Dellosa | First Words Flash Cards |・,Carson-Dellosa Publishing (Compiler,2004,Carson Dellosa Education,102,3.99,0,0,1,1,2(2019),2,1,277.00772
+2019,Business&SelfHelp,2,Atomic Habits: An Easy & Proven Way to Build・,Jessica Bridge,2020,Genius Press ,100,27,0,0,1,1,2(2019),2,1,450120
+2019,Business&SelfHelp,2,Make Your Bed: Little Things That Can Change・,Admiral William H. McRaven,2017,Grand Central Publishing,144,20,0,3,0,1,3,1,1,17876.661
+2019,Religion&Spirituality,0,The Gifts of Imperfection: Let Go of Who You・,Bren_ Brown,2012,Brilliance Audio,160,16.95,0,0,1,1,8,1,1,108790
+2019,Politics&SocialSciences,7,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2020,Harper Perennial,443,24.99,0,0,0,1,3,1,1,95449.7
+2019,Parenting&Relationships,0,What to Expect When You're Expecting,Heidi Murkoff,2016,Workman Publishing Company,656,15.95,0,0,1,0,8,1,1,24970
+2019,Business&SelfHelp,2,Daring Greatly: How the Courage to Be・,Bren_ Brown,2015,Avery,320,17,0,1,1,1,4,1,1,81723.4
+2019,Religion&Spirituality,0,The Alchemist 25th Anniversary: A Fable About・,Paulo Coelho,2003,HarperOne,208,25.99,0,0,0,0,6,1,1,9876020
+2019,Reference,0,Publication Manual of the American・,American Psychological Association,2019,American Psychological Association,428,26.7,0,0,0,0,10,1,1,230000000
+2019,Children'sBooks,3,The Pout-Pout Fish,Deborah Diesen,2013,Farrar Straus and Giroux ,34,7.99,0,1,1,1,4,1,1,114000
+2019,Politics&SocialSciences,7,Talking to Strangers: What We Should Know・,Malcolm Gladwell,2020,"Little, Brown and Company",386,30,0,0,0,0,1,0,0,59411
+2019,Children'sBooks,3,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,2007,Little Simon,18,14.99,0,0,0,1,6,1,1,227601
+2019,Literature&Fiction,6,The Overstory,Richard Powers,2019,W. W. Norton & Company,512,18.95,0,3,0,1,1,0,0,5170000
+2019,Politics&SocialSciences,7,Fahrenheit 451,Ray Bradbury,2012,Simon & Schuster,249,17,0,3,1,1,7,1,1,156200
+2019,Business&SelfHelp,2,StrengthsFinder 2.0,Gallup,2007,Gallup Press,175,39.99,0,0,0,0,9,1,1,360580
+2019,Politics&SocialSciences,7,12 Rules for Life: An Antidote to Chaos,Jordan B. Peterson,2018,Random House Canada,448,25.95,0,0,1,1,2,0,1,106536.4
+2019,Literature&Fiction,6,Eleanor Oliphant Is Completely Fine,Gail Honeyman,2018,Penguin Books,352,16,0,5,1,1,1,0,0,3773.42493
+2019,Biographies&Memoirs,1,Me: Elton John Official Autobiography,Elton John,2020,Henry Holt and Co.,384,19.99,0,0,0,1,1,0,0,10800000
+2019,Religion&Spirituality,0,The Road Back to You: An Enneagram Journey to・,Ian Morgan Cron,2016,IVP Books ,240,23.99,0,0,1,1,1,0,0,6886
+2019,Literature&Fiction,6,The Tattooist of Auschwitz,Heather Morris,2018,Harper Paperbacks,249,16.99,0,1,1,1,1,0,0,314600
+2019,Business&SelfHelp(CCD),2,People of Walmart.com Adult Coloring Book:・,Andrew Kipple,2016,Day Drankin' Press ,80,8,0,0,0,1,1,0,0,588.5682
+2019,Literature&Fiction,6,The Great Gatsby,F. Scott Fitzgerald,2004,Scribner ,180,17,0,0,1,1,9,1,1,284900
+2019,CookbooksFood&Wine,4,The Complete Cookbook for Young Chefs: 100+・,America's Test Kitchen Kids,2019,Sourcebooks Explore ,224,19.99,0,0,1,1,1,0,0,127069.239
+2019,Politics&SocialSciences,7,Blowout: Corrupted Democracy Rogue State・,Rachel Maddow,2019,Crown,432,30,0,7,1,1,1,0,0,291000
+2019,Children'sBooks,3,Love You Forever,Robert Munsch,1995,Firefly Books ,32,4.99,0,1,0,1,8,1,1,13109.5514
+2019,CookbooksFood&Wine,4,The Easy 5-Ingredient Ketogenic Diet Cookbook:・,Jen Fisch,2018,Rockridge Press ,210,14.99,0,0,0,1,2,0,1,10200
+2019,Literature&Fiction,6,The Giving Tree,Shel Silverstein,2014,Harper & Row,57,9.99,0,0,0,0,3,1,1,4.89E+04
+2019,Children'sBooks,3,Dragons Love Tacos,Adam Rubin,2012,Dial Books,40,18.99,0,1,0,1,5,1,1,126498.24
+2019,Business&SelfHelp,2,How to Win Friends & Influence People,Dale Carnegie,1998,Pocket Books ,288,9.5,0,0,1,0,7,1,1,196020
+2019,CookbooksFood&Wine,4,Magnolia Table: A Collection of Recipes for・,Joanna Gaines,2018,William Morrow Cookbooks,336,35,0,3,1,0,3,1,1,289000
+2019,HealthFitness&Dieting,5,The Obesity Code: Unlocking the Secrets of・,Dr. Jason Fung,2016,Greystone Books,296,18.99,0,2,0,1,1,0,0,16085.77388
+2019,Children'sBooks,3,Magic Tree House Boxed Set Books 1-4:・,Mary Pope Osborne,2001,Random House Books for Young Readers,80,23.96,0,0,0,1,1,0,0,39380
+2019,Literature&Fiction,6,Then She Was Gone,Lisa Jewell,2018,Atria Books,384,16,0,0,1,1,2(2019),2,1,38620.0298
+2019,History,7,The Pioneers: The Heroic Story of the Settlers・,David McCullough,2020,Simon & Schuster ,352,18,0,3,1,0,1,0,0,1.75E+05
+2019,HealthFitness&Dieting,5,Medical Medium Liver Rescue: Answers to・,Anthony William,2018,Hay House Inc.,496,34.99,0,0,1,1,2,0,1,4131280.252
+2019,Children'sBooks,3,The Care and Keeping of You: The Body Book for・,Valorie Schaefer,2012,American Girl,104,12.99,0,0,0,1,8,1,1,2830
+2019,Children'sBooks,3,There's No Place Like Space: All About Our Solar・,Tish Rabe,1999,Random House Books for Young Readers,48,9.99,0,0,1,1,2(2019),2,1,3890
+2019,Children'sBooks,3,How to Draw 101 Animals,Dan Green,2003,Imagine That,48,14.98,0,0,0,1,1,0,0,712800000
+2019,Children'sBooks,3,Unicorn Activity Book for Kids Ages 4-8: A Fun・,Modern Kid Press,2019,Modern Kid Press ,85,5.99,0,0,1,1,1,0,0,710396
+2019,CookbooksFood&Wine,4,Simply Keto: A Practical Approach to Health &・,Emily Taylor,2020,Victory Belt Publishing,220,34.95,0,0,1,1,2,0,1,650871.5
+2019,Teen&Youngadult,6,The Outsiders,S. E. Hinton,2006,Speak,224,10.99,0,2,1,1,5,1,1,133000
+2019,Children'sBooks,3,The Try Not to Laugh Challenge - Would Your・,Crazy Corey,2019,Try Not to Laugh Challenge Group,78,6.99,0,0,0,1,1,0,0,165480.8
+2018,Politics&SocialSciences,7,Fire and Fury: Inside the Trump White House,Michael Wolff,2019,Henry Holt and Company,336,30,0,0,0,1,1,0,0,403700
+2018,Politics&SocialSciences,7,Fear: Trump in the White House,Bob Woodward,2019,Simon & Schuster,448,18,0,0,0,0,1,0,0,136400
+2018,Children'sBooks,3,Last Week Tonight with John Oliver Presents A・,Jill Twiss,2018,Chronicle Books,40,18.99,0,0,0,1,1,0,0,0
+2018,Politics&SocialSciences,7,Whose Boat Is This Boat?: Comments That Don't・,The Staff of The Late Show with Stephen Colbert ,2020,Simon & Schuster,12,14.99,0,0,1,0,1,0,0,63500
+2018,Biographies&Memoirs,1,A Higher Loyalty: Truth Lies and Leadership,James Comey,2018,Flatiron Books,312,17.99,0,3,0,1,1,0,0,94930
+2018,Children'sBooks,3,The Meltdown (Diary of a Wimpy Kid Book 13),Jeff Kinney,2018,Amulet Books,224,14.99,0,0,0,0,1,0,0,1.08E+05
+2018,Children'sBooks,3,First 100 Words,Roger Priddy,2011,Priddy Books US,24,5.99,0,0,0,0,5,1,1,10560
+2018,Children'sBooks,3,Dog Man: Lord of the Fleas: From the Creator of・,Dav Pilkey,2018,Graphix,256,9.99,0,2,1,0,1,0,0,23893.9
+2018,HealthFitness&Dieting,5,The Plant Paradox: The Hidden Dangers in・,Steven R. Gundry MD MD,2017,Tantor Audio,416,29.99,0,0,0,1,2,0,1,6140
+2018,CraftsHobbies&Home,0,Homebody: A Guide to Creating Spaces You・,Joanna Gaines,2018,Harper Design,352,38.47,0,0,1,1,1,0,0,135762
+2018,Literature&Fiction,6,Crazy Rich Asians (Crazy Rich Asians Trilogy),Kevin Kwan,2018,Anchor ,500,49.9,1,4,0,1,1,0,0,29795.88446
+2018,Teen&Youngadult,6,The Hate U Give,Angie Thomas,2017,Balzer + Bray,464,18.99,0,0,1,1,1,0,0,3820000
+2018,CookbooksFood&Wine,4,The Instant Pot Electric Pressure Cooker・,Laurel Randolph,2016,Rockridge Press ,176,14.99,0,0,1,1,3,1,1,44801.46
+2018,Children'sBooks,3,Dog Man and Cat Kid: From the Creator of・,Dav Pilkey,2020,Graphix ,176,12.99,0,0,1,0,1,0,0,14140.3
+2018,Children'sBooks,3,A Wrinkle in Time (Time Quintet),Madeleine L'Engle,2007,Square Fish,256,6.99,0,1,1,1,1,0,0,17741.1907
+2018,Literature&Fiction,6,Milk and Honey,Rupi Kaur,2015,Andrews McMeel Publishing,208,14.99,0,5,1,1,3,1,1,83270
+2018,Literature&Fiction,6,Little Fires Everywhere,Celeste Ng,2019,Penguin Books,368,17,1,8,1,1,1,0,0,40728.2
+2018,Biographies&Memoirs,1,Kitchen Confidential Updated Edition:・,Anthony Bourdain,2007,Ecco,312,21,0,2,0,1,1,0,0,127000
+2018,Literature&Fiction,6,The President Is Missing,James Patterson,2019,Grand Central Publishing,528,17.99,0,3,0,0,1,0,0,987349.5673
+2018,CookbooksFood&Wine,4,The Plant Paradox Cookbook: 100 Delicious・,Dr. Steven R Gundry MD,2018,Harper Wave,288,35,0,0,0,1,1,0,0,2552
+2018,Literature&Fiction,6,Ready Player One,Ernest Cline,2012,Ballantine Books,374,28.99,0,0,0,1,2,0,1,99033.80302
+2018,Politics&SocialSciences,7,Ship of Fools: How a Selfish Ruling Class Is・,Tucker Carlson,2019,Thorndike Press Large Print,333,17,0,3,0,1,1,0,0,241659
+2018,Children'sBooks,3,Wonder,R. J. Palacio,2012,Knopf Books for Young Readers,320,16.99,0,5,1,1,7,1,1,68700
+2018,CookbooksFood&Wine,4,The Whole30: The 30-Day Guide to Total Health・,Melissa Hartwig Urban,2015,Houghton Mifflin Harcourt,432,30,0,1,1,0,4,1,1,3158.1
+2018,CookbooksFood&Wine,4,The Keto Diet: The Complete Guide to a High-Fat・,Leanne Vogel,2017,Victory Belt Publishing,448,34.95,0,0,1,1,1,0,0,8690
+2018,Religion&Spirituality,0,Everybody Always: Becoming Love in a World・,Bob Goff,2018,Thomas Nelson,240,18.99,0,0,1,1,1,0,0,36456.09
+2018,Literature&Fiction,6,Before We Were Yours,Lisa Wingate,2017,Ballantine Books ,378,17,0,2,1,1,1,0,0,21659
+2018,Literature&Fiction,6,The Reckoning,John Grisham,2018,Dell ,435,9.99,0,0,0,0,1,0,0,6.21E+04
+2018,Literature&Fiction,6,Beneath a Scarlet Sky,Mark Sullivan,2017,Lake Union Publishing,523,16.99,0,1,0,1,2,0,1,716815.7859
+2018,Business&SelfHelp,2,Principles: Life and Work,Ray Dalio,2017,Simon & Schuster,592,30,1,4,0,1,2,0,1,148500
+2018,Science&Math,7,Astrophysics for People in a Hurry,Neil deGrasse Tyson,2017,W. W. Norton & Company,224,18.95,0,1,0,1,2,0,1,79310
+2018,Children'sBooks,3,Laugh-Out-Loud Jokes for Kids,Rob Elliott,2010,Revell ,128,4.99,0,0,0,0,6,1,1,1037000
+2018,Reference,0,The Official SAT Study Guide 2018 Edition・,The College Board,2019,College Board,1300,29.99,0,0,1,0,2,0,1,263780000
+2018,Business&SelfHelp,2,Calm the F*ck Down: An Irreverent Adult・,Sasha O'Hara,2016,CreateSpace Independent Publishing Platform,52,4.99,0,0,1,1,2,0,1,9938.45721
+2018,Literature&Fiction,6,The Outsider,Stephen King,2006,Scribner,374,18.99,0,0,1,0,1,0,0,7888406.8
+2018,Reference,0,Dungeons & Dragons Dungeon Master's Guide・,Wizards RPG Team,2020,Wizards of the Coast ,192,25,0,0,0,1,1,0,0,8763.8
+2018,Literature&Fiction,6,The Woman in the Window,A. J Finn,2019,William Morrow Paperbacks,464,16.99,0,2,0,1,1,0,0,10998900
+2018,Reference,0,Dungeons & Dragons Monster Manual (Core・,Wizards RPG Team,2020,Wizards of the Coast ,192,27.49,0,0,0,1,1,0,0,29867.64
+2018,Business&SelfHelp,2,Extreme Ownership: How U.S. Navy SEALs Lead・,Jocko Willink,2020,St. Martin's Press,238,28.99,0,0,0,1,1,0,0,5761.2
+2018,Politics&SocialSciences,7,The Russia Hoax: The Illicit Scheme to Clear・,Gregg Jarrett,2018,Broadside Books,352,16.99,0,0,0,1,1,0,0,20449
+2018,Literature&Fiction,6,The Sun and Her Flowers,Rupi Kaur,2017,Andrews McMeel Publishing,256,16.99,0,5,1,1,2,0,1,74500
+2018,Children'sBooks,3,Where Do Diggers Sleep at Night? (Where・,Brianna Caplan Sayres and Christian Slade ,2020,Random House Books for Young Readers,32,9.99,0,0,1,0,1,0,0,177.87
+2018,Business&SelfHelp,2,The 7 Habits of Highly Effective People:・,Stephen R. Covey,2020,Simon & Schuster,464,18.99,0,0,0,0,8,1,1,26366.1
+2018,Biographies&Memoirs,1,Whiskey in a Teacup: What Growing Up in the・,Reese Witherspoon,2018,Atria Books,304,35,0,3,1,1,1,0,0,293000
+2018,Biographies&Memoirs,1,Man's Search for Meaning (OLD EDITION/OUT・,Viktor E. Frankl,2006,Beacon Press,188,10.99,0,0,0,1,1,0,0,34370.39794
+2018,Literature&Fiction,6,The Great Alone,Kristin Hannah,2020,St. Martin's Press,184,17.99,0,0,1,0,1,0,0,229900
+2018,CookbooksFood&Wine,4,Cravings: Hungry for More: A Cookbook,Chrissy Teigen,2018,Clarkson Potter,256,29.99,0,4,1,0,1,0,0,5790000
+2018,Politics&SocialSciences,7,The Handmaid's Tale,Margaret Atwood,1998,Anchor,311,15.95,0,1,1,1,2,0,1,174684.9234
+2018,Literature&Fiction,6,Gmorning Gnight!: Little Pep Talks for Me & You,Lin-Manuel Miranda,2018,Random House,224,22,0,0,0,0,1,0,0,196900
+2018,Teen&Youngadult,6,Harry Potter Paperback Box Set (Books 1-7),J.K. Rowling,2009,Arthur A. Levine Books,4167,285,0,0,0,0,4,1,1,11880000
+2018,Literature&Fiction,6,Xanathar's Guide to Everything (Dungeons &・,Wizards RPG Team,2017,Wizards of the Coast,192,28.99,0,0,0,1,1,0,0,70290
+2017,Children'sBooks,3,The Getaway,Jeff Kinney,2017,Harry N. Abrams,224,14.99,0,2,0,0,1,0,0,1.12E+05
+2017,Politics&SocialSciences,7,Hillbilly Elegy: A Memoir of a Family and Culture・,J. D. Vance,2018,Harper Paperbacks,288,16.99,0,2,0,1,2,0,1,143000
+2017,Politics&SocialSciences,7,What Happened,Hillary Rodham Clinton,2020,Simon & Schuster,264,18.99,0,0,1,0,1,0,0,28435
+2017,Politics&SocialSciences,7,1984 (Signet Classics),George Orwell,1950,Signet Classic ,328,9.99,0,0,1,1,5,1,1,355740
+2017,Literature&Fiction,6,Origin,Dan Brown,2020,Doubleday,456,9.99,0,0,0,0,1,0,0,62957203.3
+2017,Literature&Fiction,6,A Man Called Ove,Fredrik Backman,2020,Washington Square Press,368,16,0,0,0,1,2,0,1,29282
+2017,Children'sBooks,3,The Going-To-Bed Book,Sandra Boynton,1982,Little Simon,14,5.99,0,0,1,1,4,1,1,25155.9
+2017,Literature&Fiction,6,The Shack: Where Tragedy Confronts Eternity,William P. Young,2007,Windblown Media,256,15,0,0,0,0,3(9-10-11),1,1,23474000
+2017,Business&SelfHelp,2,Option B: Facing Adversity Building Resilience・,Sheryl Sandberg,2017,Knopf,240,25.95,0,5,1,0,1,0,0,52393
+2017,CookbooksFood&Wine,4,Thug Kitchen: The Official Cookbook: Eat Like・,Thug Kitchen,2014,Rodale Books,240,8.99,0,0,1,1,4,1,1,72672.6
+2017,Literature&Fiction,6,A Gentleman in Moscow,Amor Towles,2019,Penguin Books,496,17,2,11,0,1,1,0,0,4304.5
+2017,Literature&Fiction,6,Thirteen Reasons Why,Jay Asher,2011,Razorbill,288,10.99,0,0,0,1,1,0,0,5650000
+2017,Biographies&Memoirs,1,Leonardo da Vinci,Walter Isaacson,2019,Simon & Schuster,326,22,0,0,0,0,1,0,0,36939.30199
+2017,Teen&Youngadult,6,Harry Potter and the Prisoner of Azkaban: The・,J.K. Rowling,2001,Scholastic Paperbacks ,448,10.99,0,0,1,0,1,0,0,487984.5
+2017,Children'sBooks,3,Puppy Birthday to You! (Paw Patrol) (Little・,Golden Books,2015,Golden Books,24,4.99,0,1,1,1,2,0,1,76670000
+2017,Business&SelfHelp,2,Tools of Titans: The Tactics Routines and Habits・,Tim Ferriss,2018,Houghton Mifflin Harcourt,288,30,0,0,0,1,2,0,1,9666.3594
+2017,Literature&Fiction,6,Milk and Vine: Inspirational Quotes From Classic・,Adam Gasiewski,2017,Independently published ,77,7.99,0,1,0,1,1,0,0,1210
+2017,Children'sBooks,3,Dog Man: A Tale of Two Kitties: From the Creator・,Dav Pilkey,2017,Graphix,256,9.99,0,0,1,1,1,0,0,31702
+2017,Politics&SocialSciences,7,Obama: An Intimate Portrait,Pete Souza,2017,Little Brown and Company,352,50,2,6,0,1,1,0,0,25508.70684
+2017,History,7,Killers of the Flower Moon: The Osage Murders・,David Grann,2018,Vintage,400,16.95,0,6,0,1,1,0,0,13530
+2017,Religion&Spirituality,0,Uninvited: Living Loved When You Feel Less・,Lysa TerKeurst,2016,Thomas Nelson on Brilliance Audio,352,18.99,0,0,1,1,2,0,1,4072.818739
+2017,Literature&Fiction,6,Big Little Lies,Liane Moriarty,2017,Berkley,254,16,0,0,1,1,1,0,0,10403.8946
+2017,CookbooksFood&Wine,4,The Whole30 Cookbook: 150 Delicious and・,Melissa Hartwig Urban,2016,Houghton Mifflin Harcourt,320,30,0,1,1,1,1,0,0,3300.88
+2017,Business&SelfHelp,2,Thinking Fast and Slow,Daniel Kahneman,2013,Farrar Straus and Giroux,499,18,0,4,0,1,5,1,1,49368
+2017,Religion&Spirituality,0,Jesus Calling: Enjoying Peace in His Presence・,Sarah Young,2014,Thomas Nelson,400,16.99,0,0,1,0,7,1,1,40994800
+2017,Religion&Spirituality,0,The Wisdom of Sundays: Life-Changing Insights・,Oprah Winfrey,2017,Flatiron Books ,240,27.99,1,0,1,1,1,0,0,381150
+2017,Literature&Fiction,6,The Rooster Bar,John Grisham,2017,Dell ,376,9.99,0,4,0,0,1,0,0,6.50E+04
+2017,Children'sBooks,3,She Persisted: 13 American Women Who・,Chelsea Clinton,2017,Philomel Books,32,10.99,0,1,0,1,1,0,0,223608
+2017,History,7,On Tyranny: Twenty Lessons from the Twentieth・,Timothy Snyder,2017,Tim Duggan Books,128,9.99,0,3,0,1,1,0,0,97562.3
+2017,Literature&Fiction,6,Camino Island,John Grisham,2017,Dell,370,9.99,0,4,0,0,1,0,0,1.91E+05
+2017,Teen&Youngadult,6,Turtles All the Way Down,John Green,2019,Penguin Books,320,14.99,0,12,0,0,1,0,0,410300000
+2017,CookbooksFood&Wine,4,The Pioneer Woman Cooks: Come and Get It!:・,Ree Drummond,2017,William Morrow Cookbooks,400,29.99,0,0,1,0,1,0,0,1.99E+05
+2017,Business&SelfHelp,2,Mindset: The New Psychology of Success,Carol S. Dweck,2007,Ballantine Books,320,17,0,1,1,1,5,1,1,11202.62009
+2017,Children'sBooks,3,Where Is Baby's Belly Button? A Lift-the-Flap Book,Karen Katz ,2020,Little Simon,14,5.99,0,0,1,0,2,0,1,150000
+2017,Biographies&Memoirs,1,Grant,Ron Chernow,2018,Penguin Books,1104,22,0,0,0,0,1,0,0,15620
+2017,Business&SelfHelp,2,The Intelligent Investor: The Definitive Book on・,Benjamin Graham,2006,Harper Business,640,24.99,0,0,0,1,2(2019),2,1,4690000
+2017,Children'sBooks,3,The Trials of Apollo Book Two The Dark・,Rick Riordan,2018,Disney-Hyperion,464,9.99,0,0,1,0,1,0,0,3.49E+05
+2017,Teen&Youngadult,6,Everything Everything,Nicola Yoon,2017,Ember,352,10.99,0,5,1,1,1,0,0,42471
+2017,Business&SelfHelp,2,Start with Why: How Great Leaders Inspire・,Simon Sinek,2011,Portfolio,256,16,0,0,0,1,1,0,0,435237
+2017,Literature&Fiction,6,Norse Mythology,Neil Gaiman,2016,W. W. Norton & Company,253,15.95,0,0,0,0,1,0,0,387000
+2017,Children'sBooks,3,Dog Man Unleashed: From the Creator of・,Dav Pilkey,2020,Scholastic Children's Books ,224,9.99,0,0,1,1,1,0,0,40500
+2017,Literature&Fiction,6,Lilac Girls,Martha Hall Kelly,2017,Ballantine Books,544,17,0,0,0,1,1,0,0,181500
+2017,Teen&Youngadult,6,Harry Potter and the Sorcerer's Stone: The・,J.K. Rowling,2020,Scholastic Inc.,368,8.99,0,0,1,0,2,0,1,698739.7
+2017,Children'sBooks,3,Magnus Chase and the Gods of Asgard Book 3・,Rick Riordan,2019,Disney-Hyperion,464,9.99,0,0,1,0,1,0,0,2.53E+05
+2017,Literature&Fiction,6,Al Franken Giant of the Senate,Al Franken,2017,Twelve,416,26,0,0,0,0,1,0,0,179080
+2017,Reference,0,Pok_mon Deluxe Essential Handbook: The Need・,Scholastic,2018,Scholastic Inc.,496,14.99,0,0,0,0,2,0,1,3.337482564
+2017,CookbooksFood&Wine,4,10-Day Green Smoothie Cleanse,JJ Smith,2014,Simon & Schuster ,192,16.99,0,1,0,1,3,1,1,58685000
+2017,History,7,Killing England: The Brutal Struggle for・,Bill O'Reilly,2020,Henry Holt and Co.,340,30,0,0,0,0,1,0,0,178890.4175
+2017,Children'sBooks,3,Rosie Revere Engineer,Andrea Beaty,2013,Harry N. Abrams,32,16.15,0,0,1,1,1,0,0,17968.5
+2016,Teen&Youngadult,6,Harry Potter and the Cursed Child Parts 1 & 2・,J.K. Rowling,2017,Arthur A. Levine Books ,336,8.99,0,1,1,0,1,0,0,13709300
+2016,Children'sBooks,3,Double Down (Diary of a Wimpy Kid #11),Jeff Kinney,2016,Harry N. Abrams,224,14.99,0,0,0,0,1,0,0,1.06E+05
+2016,Biographies&Memoirs,1,When Breath Becomes Air,Paul Kalanithi,2016,Random House,228,26,0,5,0,1,1,0,0,11400
+2016,History,7,Killing the Rising Sun: How America Vanquished・,Bill O'Reilly,2016,Henry Holt and Co.,336,30,0,0,0,0,1,0,0,90200
+2016,Biographies&Memoirs,1,The Magnolia Story,Chip Gaines,2020,Thomas Nelson,245,18.99,0,0,1,1,1,0,0,129000
+2016,Children'sBooks,3,Fantastic Beasts and Where to Find Them: The・,J.K. Rowling,2017,Arthur A. Levine Books,160,9.99,0,0,1,1,1,0,0,10200000
+2016,Literature&Fiction,6,Hamilton: The Revolution,Lin-Manuel Miranda,2016,Grand Central Publishing,288,45,0,0,0,1,1,0,0,80132
+2016,Literature&Fiction,6,The Girl on the Train,Paula Hawkins,2017,Riverhead Books,325,16,0,0,1,1,2,0,1,100806.3195
+2016,Reference,0,The Official SAT Study Guide 2016 Edition・,The College Board,2015,College Board,792,28,0,0,1,0,1,0,0,270193000
+2016,Business&SelfHelp(CCD),2,Adult Coloring Book Designs: Stress Relief・,MantraCraft,2018,New Castle P&P ,108,4.99,0,0,1,1,1,0,0,61600
+2016,Biographies&Memoirs,1,Born to Run,Christopher McDougall,2011,Vintage,304,16.95,0,2,0,0,1,0,0,43890
+2016,Biographies&Memoirs,1,Alexander Hamilton,Ron Chernow,2005,Penguin Books ,818,22,0,1,0,0,1,0,0,3136.070429
+2016,History,7,The Constitution of the United States,Founding Fathers (Creator,1995,Applewood Books,36,1.99,0,0,1,1,1,0,0,58410
+2016,CookbooksFood&Wine,4,Cravings: Recipes for All the Food You Want to・,Chrissy Teigen,2016,Clarkson Potter,240,29.99,0,0,1,1,1,0,0,24096.68164
+2016,Biographies&Memoirs,1,Night (Night),Elie Wiesel,2006,Hill and Wang ,120,11,1,1,0,0,5,1,1,41068.005
+2016,Literature&Fiction,6,The Nightingale,Kristin Hannah,2017,St. Martin's Griffin,608,17.99,0,2,1,1,2,0,1,187550
+2016,Teen&Youngadult,6,Harry Potter and the Chamber of Secrets: The・,J.K. Rowling,2020,Arthur A. Levine Books,452,10.99,0,0,1,0,1,0,0,14108600
+2016,Business&SelfHelp,2,The Five Dysfunctions of a Team: A Leadership・,Patrick Lencioni,2002,Jossey-Bass,229,24.95,0,0,0,0,6,1,1,14241.7
+2016,Literature&Fiction,6,All the Light We Cannot See,Anthony Doerr,2017,Scribner,544,18,0,4,0,1,3,1,1,21429.1
+2016,Religion&Spirituality,0,Fervent: A Woman's Battle Plan to Serious・,Priscilla Shirer,2015,B&H Books,208,12.99,0,0,1,1,1,0,0,13915
+2016,Literature&Fiction,6,The Whistler,John Grisham,2016,Dell,470,9.99,0,4,0,0,1,0,0,6.35E+04
+2016,CookbooksFood&Wine,4,Cooking for Jeffrey: A Barefoot Contessa Cookbook,Ina Garten,2016,Clarkson Potter,256,35,0,0,1,0,1,0,0,162382
+2016,Children'sBooks,3,The Trials of Apollo Book 1: The Hidden Oracle・,Rick Riordan,2019,Disney-Hyperion,286,9.99,0,0,1,0,1,0,0,1.20E+05
+2016,Children'sBooks,3,Knock-Knock Jokes for Kids,Rob Elliott,2013,Revell ,128,4.99,0,0,0,1,4,1,1,86328.16753
+2016,Politics&SocialSciences,7,Crisis of Character: A White House Secret Service・,Gary J. Byrne,2017,Center Street,336,17.99,0,2,0,1,1,0,0,59170.1374
+2016,Children'sBooks,3,First 100 Animals,Roger Priddy,2011,Priddy Books US,24,5.99,0,0,0,1,1,0,0,8198.96
+2016,Business&SelfHelp(CCD),2,Adult Coloring Books: A Coloring Book for Adults・,Damita Victoria,2020,Independently published ,109,6.2,0,0,1,1,2,0,1,5004.6
+2016,Teen&Youngadult,6,Miss Peregrine's Home for Peculiar Children (Miss・,Ransom Riggs,2013,Quirk Books,382,10.99,0,3,0,0,1,0,0,4.02E+04
+2016,Business&SelfHelp,2,Grit: The Power of Passion and Perseverance,Angela Duckworth,2018,Scribner,368,17.99,0,4,0,1,1,0,0,30213.7
+2016,Business&SelfHelp,2,Emotional Intelligence 2.0,Travis Bradberry,2009,TalentSmart,280,34.99,0,2,0,1,3,1,1,11246.95
+2016,Literature&Fiction,6,The Underground Railroad (Pulitzer Prize・,Colson Whitehead,2016,Anchor,336,16.95,2,10,1,1,1,0,0,34430
+2016,CookbooksFood&Wine,4,The Food Lab: Better Home Cooking Through・,J. Kenji L_pez-Alt,2015,W. W. Norton & Company,958,49.95,0,4,1,1,1,0,0,16371.3
+2016,Literature&Fiction,6,Me Before You,Jojo Moyes,2018,Penguin Books,369,16,0,0,1,1,1,0,0,109091.7704
+2016,Children'sBooks,3,Potty (Leslie Patricelli board books),Leslie Patricelli,2010,Candlewick,28,7.99,0,0,1,1,2,0,1,7450
+2016,Children'sBooks,3,First 100 Padded: Numbers Colors Shapes,Roger Priddy,2011,Priddy Books US,24,5.99,0,0,0,1,1,0,0,10635.9
+2016,Business&SelfHelp(CCD),2,Good Vibes Coloring Book (Coloring is Fun)・,Thaneeya McArdle,2017,Design Originals,80,9.99,0,0,1,1,1,0,0,448.1048036
+2016,Religion&Spirituality,0,Quieting Your Heart: 6-Month Bible-Study Journal,Darlene Schacht,2016,Time-Warp Wife Ministries ,192,9.99,0,0,0,1,1,0,0,3775.2
+2016,Children'sBooks,3,The Book with No Pictures,B. J. Novak,2014,Dial Books,48,17.99,0,3,0,1,3,1,1,66416.9
+2016,Business&SelfHelp(CCD),2,Creative Haven Owls Coloring Book (Adult・,Marjorie Sarnat,2015,Dover Publications,64,20.63,0,0,1,0,2,0,1,2381.5
+2016,Children'sBooks,3,Magnus Chase and the Gods of Asgard Book 2・,Rick Riordan,2018,Disney-Hyperion,496,9.99,0,0,1,0,1,0,0,1.02E+05
+2016,Business&SelfHelp(CCD),2,Secret Garden: An Inky Treasure Hunt and・,Johanna Basford,2013,Laurence King Publishing,96,15.95,0,0,1,0,2,0,1,22200
+2016,Teen&Youngadult,6,Harry Potter and the Sorcerer's Stone,J.K. Rowling,2020,Scholastic Inc.,368,21.67,0,0,1,0,1,0,0,7679870
+2016,Children'sBooks,3,The Everything Kids' Science Experiments Book:・,Tom Robinson,2001,Everything,144,7.99,0,0,0,1,3,1,1,14100000
+2016,Teen&Youngadult,6,The Giver (1) (Giver Quartet),Lois Lowry,2014,HMH Books for Young Readers,240,8.99,0,1,1,1,1,0,0,37840
+2016,Children'sBooks,3,Little Blue Truck board book,Alice Schertle,2020,HMH Books for Young Readers ,30,8.99,0,0,1,0,2,0,1,2076.36
+2016,Business&SelfHelp(CCD),2,Harry Potter Coloring Book,Scholastic,2015,Scholastic Inc.,96,15.99,0,0,0,0,2,0,1,7901300
+2016,Children'sBooks,3,The Day the Crayons Quit,Drew Daywalt,2013,Philomel Books,40,17.99,0,0,1,0,4,1,1,3117.94736
+2015,Literature&Fiction,6,Go Set a Watchman,Harper Lee,2016,Harper Perennial Modern Classics,288,27.99,0,4,1,0,1,0,0,21100000
+2015,Business&SelfHelp(CCD),2,Enchanted Forest: An Inky Quest and Coloring・,Johanna Basford (Illustrator,2015,Laurence King Publishing,84,9.99,0,0,1,1,1,0,0,551.4869393
+2015,Business&SelfHelp(CCD),2,Adult Coloring Book: Stress Relieving Patterns,Blue Star Coloring,2015,Blue Star Coloring,96,8.95,0,0,1,1,1,0,0,17036800
+2015,Children'sBooks,3,Old School (Diary of a Wimpy Kid #10),Jeff Kinney,2015,Harry N. Abrams,224,14.99,0,0,0,0,1,0,0,9.68E+04
+2015,Religion&Spirituality,0,Adult Coloring Book: Stress Relieving Animal・,Savanna Magic,2015,Savanna Magic ,130,5.54,0,0,1,1,1,0,0,48608.12
+2015,Arts&Photography,0,Humans of New York : Stories,Brandon Stanton,2015,St. Martin's Press,432,29.99,1,1,0,0,1,0,0,70423.2
+2015,Literature&Fiction,6,The Martian,Andy Weir,2014,Broadway Books,369,12.99,0,0,0,1,1,0,0,93500
+2015,History,7,The Boys in the Boat: Nine Americans and Their・,Daniel James Brown,2014,Penguin Books ,404,9.99,0,3,0,1,2,0,1,24357300
+2015,Literature&Fiction,6,Grey: Fifty Shades of Grey as Told by Christian・,E. L. James,2014,Vintage,257,15.95,0,0,0,0,1,0,0,44655050
+2015,Business&SelfHelp(CCD),2,Creative Haven Creative Cats Coloring Book・,Marjorie Sarnat,2020,Dover Publications,64,5.99,0,0,1,1,1,0,0,4951.3
+2015,Business&SelfHelp(CCD),2,Balance (Angie's Extreme Stress Menders),Angie Grace,2015,CreateSpace Independent Publishing Platform ,103,11.95,0,0,1,1,1,0,0,186819.16
+2015,HealthFitness&Dieting,5,Being Mortal: Medicine and What Matters in the・,Atul Gawande,2016,Atul Gawande,304,16,0,0,0,0,1,0,0,16940
+2015,Children'sBooks,3,Baby Touch and Feel: Animals,DK,2008,DK Children,14,4.95,0,0,0,0,1,0,0,64843561.5
+2015,History,7,The Wright Brothers,David McCullough,2014,Simon & Schuster,320,18,0,0,1,0,1,0,0,1.38E+05
+2015,Business&SelfHelp(CCD),2,Dover Creative Haven Art Nouveau Animal・,Marty Noble,2013,Dover Publications,64,5.99,0,0,0,1,1,0,0,30200
+2015,CookbooksFood&Wine,4,The Pioneer Woman Cooks: Dinnertime・,Ree Drummond,2015,William Morrow Cookbooks,400,29.99,0,1,1,0,1,0,0,1.96E+05
+2015,Children'sBooks,3,What Pet Should I Get? (Classic Seuss),Dr. Seuss,2020,Random House Books for Young Readers,48,17.99,0,0,1,0,1,0,0,535447.2654
+2015,Biographies&Memoirs,1,Killing Reagan: The Violent Assault That・,Bill O'Reilly,2015,Henry Holt and Co.,336,30,0,0,0,0,1,0,0,103951.1
+2015,Biographies&Memoirs,1,American Sniper: The Autobiography of the Most・,Chris Kyle,2012,HarperCollins,448,9.99,0,0,1,1,2,0,1,20100000
+2015,Children'sBooks,3,Diary of a Minecraft Zombie Book 1: A Scare of A・,Zack Zombie,2015,Zack Zombie Publishing ,90,5.92,0,0,0,1,1,0,0,12009.4214
+2015,Business&SelfHelp(CCD),2,Lost Ocean: An Inky Adventure and Coloring・,Johanna Basford,2015,Penguin Books,80,16.95,0,0,1,1,1,0,0,25155.9
+2015,Reference,0,The Official SAT Study Guide,The College Board,2019,College Board,1300,29.99,0,0,1,0,5,1,1,190040180
+2015,Children'sBooks,3,The Day the Crayons Came Home,Drew Daywalt,2015,Philomel Books,48,18.99,0,1,1,1,1,0,0,4348.377
+2015,Literature&Fiction,6,What If?: Serious Scientific Answers to Absurd・,Randall Munroe,2020,Houghton Mifflin Harcourt,500,28,0,0,1,0,2,0,1,18740.48
+2015,Literature&Fiction,6,Paper Towns,John Green,2009,Penguin Books,305,10.99,0,3,0,0,2,0,1,486200000
+2015,History,7,Unbroken: A World War II Story of Survival・,Laura Hillenbrand,2016,Random House Trade Paperback,473,28,0,0,0,0,6,1,1,5573.330906
+2015,Business&SelfHelp,2,Get What's Yours: The Secrets to Maxing Out・,Laurence J. Kotlikoff,2016,Simon & Schuster,384,20,0,2,0,1,1,0,0,2701.93
+2015,Children'sBooks,3,Magnus Chase and the Gods of Asgard Book 1:・,Rick Riordan,2019,Disney-Hyperion,512,29.97,0,0,1,0,1,0,0,3.47E+04
+2015,Science&Math,7,Thing Explainer: Complicated Stuff in Simple・,Randall Munroe,2015,Houghton Mifflin Harcourt,64,23.09,1,4,1,1,1,0,0,39200
+2015,History,7,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,2016,Crown,480,18,0,9,0,0,1,0,0,4.58E+04
+2015,CookbooksFood&Wine,4,Inspiralized: Turn Vegetables into Healthy・,Ali Maffucci,2015,Clarkson Potter,224,19.99,0,0,1,1,1,0,0,3617.9
+2015,Business&SelfHelp(CCD),2,Mystical Mandala Coloring Book (Dover Design・,Alberta Hutchinson,2007,Dover Publications ,32,3.99,0,0,1,1,1,0,0,76463.52772
+2015,HealthFitness&Dieting,5,Diagnostic and Statistical Manual of Mental・,American Psychiatric Association,2013,American Psychiatric Publishing,991,160,0,0,0,1,3,1,1,314781.5
+2015,Children'sBooks,3,Ultimate Sticker Book: Frozen: More Than 60・,DK,2013,DK Children,16,6.99,0,0,0,0,2,0,1,164272020
+2015,CookbooksFood&Wine,4,The 20/20 Diet: Turn Your Weight Loss Vision・,Phil McGraw,2015,Ghost Mountain Books,338,12.99,0,0,0,1,1,0,0,68244
+2015,Religion&Spirituality,0,The Jesus Storybook Bible: Every Story Whispers・,Sally Lloyd-Jones,2007,ZonderKidz,352,18.99,0,0,0,1,4,1,1,195049.433
+2015,Business&SelfHelp,2,The Road to Character,David Brooks,2016,Random House Trade Paperbacks,320,18,0,6,1,0,1,0,0,358408
+2015,Children'sBooks,3,Guess How Much I Love You,Sam McBratney,2019,Candlewick,24,8.99,0,2,1,1,1,0,0,6615.07
+2015,Business&SelfHelp(CCD),2,Creative Coloring Inspirations: Art Activity Pages・,Valentina Harper,2014,Design Originals,80,8.97,0,0,1,1,1,0,0,237184.2
+2015,Children'sBooks,3,Little Blue Truck,Alice Schertle,2019,HMH Books for Young Readers,32,17.99,0,3,1,1,2,0,1,1395.990068
+2015,Business&SelfHelp,2,Crucial Conversations Tools for Talking When・,Kerry Patterson,2011,McGraw-Hill Education,272,20,0,0,0,0,3,1,1,47993.198
+2015,Religion&Spirituality,0,For the Love: Fighting for Grace in a World of・,Jen Hatmaker,2018,Thomas Nelson,224,17.99,0,0,1,1,1,0,0,6812.3
+2015,Children'sBooks,3,Press Here (Interactive Book for Toddlers and・,Herve Tullet,2019,Chronicle Books,46,8.99,0,0,1,1,1,0,0,2163.075981
+2015,Children'sBooks,3,A Long Walk to Water: Based on a True Story,Linda Sue Park,2011,HMH Books for Young Readers,128,8.99,0,0,1,1,1,0,0,258000
+2015,Literature&Fiction,6,A Game of Thrones / A Clash of Kings / A Storm・,George R. R. Martin,2013,Bantam,5216,49.95,0,2,0,0,2,0,1,373682.0426
+2015,Literature&Fiction,6,Rogue Lawyer,John Grisham,2015,Dell ,340,9.99,0,4,0,0,1,0,0,4.91E+04
+2015,Business&SelfHelp(CCD),2,Detailed Designs and Beautiful Patterns (Sacred・,Lilt Kids Coloring Books,2014,CreateSpace Independent Publishing Platform,42,4.72,0,0,2,1,1,0,0,6180
+2015,Teen&Youngadult,6,Lord of the Flies,William Golding,2003,Penguin Books,224,10.95,0,1,0,1,2,0,1,67158.267
+2014,Literature&Fiction,6,Frozen (Little Golden Book),Victoria Saxon,2015,Golden/Disney,24,4.99,0,0,1,1,1,0,0,42482.03278
+2014,Literature&Fiction,6,The Fault in Our Stars,John Green,2014,Penguin Books,352,12.99,1,7,0,1,4,1,1,370417300
+2014,Children'sBooks,3,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,2014,Amulet Books,224,14.99,0,2,0,0,1,0,0,6.23E+04
+2014,Biographies&Memoirs,1,Killing Patton: The Strange Death of World War・,Bill O'Reilly,2014,Henry Holt and Company,352,30,0,0,0,0,1,0,0,85034.928
+2014,Children'sBooks,3,The Blood of Olympus (The Heroes of Olympus 5),Rick Riordan,2019,Disney-Hyperion,544,9.99,0,0,1,0,1,0,0,1.28E+05
+2014,Literature&Fiction,6,Divergent,Veronica Roth,2016,Katherine Tegen Books,415,9.99,0,0,1,1,2,0,1,173935.08
+2014,Literature&Fiction,6,Gone Girl,Julia Whelan (Narrator,2019,Crown,500,9.99,0,0,1,1,3,1,1,1083.87323
+2014,Literature&Fiction,6,The Book Thief,Markus Zusak,2007,Knopf Books for Young Readers,608,14.99,0,3,0,0,4,1,1,28344.976
+2014,Arts&Photography,0,Humans of New York,Brandon Stanton,2020,St. Martin's Press ,448,35,0,0,0,1,2,0,1,44820.5
+2014,Literature&Fiction,6,The Goldfinch,Donna Tartt,2015,Back Bay Books ,771,13.99,1,1,0,1,2,0,1,17892.7661
+2014,Children'sBooks,3,Rush Revere and the First Patriots: Time-Travel・,Rush Limbaugh,2014,Threshold Editions,256,21,0,0,0,1,1,0,0,234000
+2014,Children'sBooks,3,JOURNEY TO THE ICE P,RH Disney,2013,Golden/Disney,224,7.11,0,0,1,1,1,0,0,82136.01
+2014,CookbooksFood&Wine,4,Make It Ahead: A Barefoot Contessa Cookbook,Ina Garten,2014,Clarkson Potter,272,35,0,0,1,0,1,0,0,109221.86
+2014,Literature&Fiction,6,If I Stay,Gayle Forman,2010,Speak,320,7.99,0,2,1,1,1,0,0,23067.44857
+2014,Literature&Fiction,6,Divergent / Insurgent,Veronica Roth,2016,Katherine Tegen Books,356,12.99,0,0,1,1,2,0,1,178927.661
+2014,Politics&SocialSciences,7,Capital in the Twenty First Century,Thomas Piketty,2017,Belknap Press,816,20.5,0,0,0,1,1,0,0,8964.09866
+2014,Literature&Fiction,6,Orphan Train,Christina Baker Kline,2018,William Morrow,173,16.99,0,0,1,1,1,0,0,21741.885
+2014,HealthFitness&Dieting,5,Grain Brain: The Surprising Truth about Wheat・,David Perlmutter MD,2018,Little Brown Spark,384,28,0,1,0,1,2,0,1,28000
+2014,Literature&Fiction,6,The Alchemist,Paulo Coelho,2014,HarperOne,208,16.99,0,0,0,0,4,1,1,536299.83
+2014,Literature&Fiction,6,Looking for Alaska,John Green,2006,Penguin Books,221,12,0,7,0,1,2,0,1,287000000
+2014,Literature&Fiction,6,The Maze Runner (Book 1),James Dashner,2010,Delacorte Press,375,9.99,0,3,1,1,1,0,0,35753.322
+2014,Literature&Fiction,6,Allegiant,Veronica Roth,2016,Katherine Tegen Books,416,12.99,0,0,1,1,2,0,1,164272.02
+2014,Biographies&Memoirs,1,Yes Please,Amy Poehler,2014,Dey Street,352,11.99,0,0,1,1,1,0,0,106480
+2014,Biographies&Memoirs,1,41: A Portrait of My Father,George W. Bush,2014,Crown ,294,28,0,0,0,0,1,0,0,484763.51
+2014,Reference,0,Minecraft: The Complete Handbook Collection,Stephanie Milton,2015,Scholastic,244,25,0,0,0,1,1,0,0,223000
+2014,Literature&Fiction,6,Frozen: A Tale of Two Sisters,Melissa Lagonegro,2013,RH/Disney,32,4.99,0,0,0,1,1,0,0,2838.851123
+2014,Children'sBooks,3,Rush Revere and the Brave Pilgrims: Time-Travel・,Rush Limbaugh,2017,Threshold Editions,12,21,0,0,0,1,2,0,1,70569.62
+2014,Teen&Youngadult,6,Divergent / Insurgent / Allegiant,Veronica Roth,2016,Katherine Tegen Books,2064,51.96,0,0,1,1,1,0,0,128694.39
+2014,Religion&Spirituality,0,Heaven is for Real: A Little Boy's Astounding・,Todd Burpo,2011,Thomas Nelson,205,17.99,0,0,0,1,3,1,1,5973
+2014,Business&SelfHelp,2,Flash Boys,Michael Lewis,2015,W. W. Norton & Company,320,16.95,0,1,1,0,1,0,0,23030293
+2014,Children'sBooks,3,Rush Revere and the American Revolution: Time・,Rush Limbaugh,2017,Threshold Editions,253,13.99,0,0,0,1,1,0,0,66177.32
+2014,Literature&Fiction,6,The World of Ice & Fire: The Untold History of・,George R. R. Martin,2014,Bantam,336,59.99,0,0,0,0,1,0,0,190040.18
+2014,Reference,0,The Real ACT Prep Guide (Official Act Prep Guide),ACT,2020,Wiley,976,38.95,0,0,1,1,1,0,0,452247529.1
+2014,Literature&Fiction,6,Gray Mountain,John Grisham,2014,Dell ,474,9.99,0,0,0,0,1,0,0,6.61E+04
+2014,Business&SelfHelp,2,Lean In: Women Work and the Will to Lead,Sheryl Sandberg,2013,Knopf,240,24.95,1,9,1,1,2,0,1,28841.01308
+2014,Literature&Fiction,6,The Invention of Wings,Sue Monk Kidd,2015,Penguin Books,400,17,1,6,1,0,1,0,0,10355.5793
+2014,Teen&Youngadult,6,The Catcher in the Rye,J. D. Salinger,2001,Back Bay Books,288,15.99,0,0,0,0,2,0,1,53855.43094
+2014,Religion&Spirituality,0,Soul Healing Miracles: Ancient and New Sacred・,Zhi Gang Sha,2013,BenBella Books ,336,24.95,0,0,1,0,2,0,1,13279.387
+2014,CookbooksFood&Wine,4,The Skinnytaste Cookbook: Light on Calories Big・,Gina Homolka,2014,Clarkson Potter,320,32.5,0,0,1,1,1,0,0,3157
+2014,Children'sBooks,3,Goodnight Goodnight Construction Site・,Sherri Duskey Rinker,2017,Chronicle Books,30,7.99,0,0,1,1,3,1,1,1310.95514
+2014,Business&SelfHelp,2,MONEY Master the Game: 7 Simple Steps to・,Tony Robbins,2019,Simon & Schuster,688,32,0,0,0,1,1,0,0,265100
+2014,Business&SelfHelp,2,Quiet: The Power of Introverts in a World That・,Susan Cain,2013,Crown,368,18,0,1,1,1,3,1,1,55647.56551
+2014,Literature&Fiction,6,Revival,Stephen King,2015,Gallery Books,416,17,0,2,1,0,1,0,0,27951000
+2014,Children'sBooks,3,Minecraft: Redstone Handbook: An Official・,Scholastic,2014,Scholastic Inc. ,80,25,0,0,0,1,1,0,0,9042000
+2014,Teen&Youngadult,6,Of Mice and Men,John Steinbeck,1993,Penguin Books,107,12,0,1,0,0,1,0,0,61778.2295
+2014,Children'sBooks,3,A Day in the Sun (Disney Frozen) (Pictureback(R)),Frank Berrios,2014,RH/Disney,16,3.99,0,0,0,1,1,0,0,8321.022017
+2014,CookbooksFood&Wine,4,Against All Grain: Delectable Paleo Recipes to・,Danielle Walker,2013,Victory Belt Publishing,368,34.95,0,0,1,1,1,0,0,190040.18
+2014,Reference,0,Minecraft: Essential Handbook,Stephanie Milton,2013,Scholastic Inc.,80,15.99,0,0,0,1,1,0,0,113911.3723
+2014,Business&SelfHelp,2,Good to Great: Why Some Companies Make the・,Jim Collins,2001,HarperBusiness,400,32.5,0,0,0,0,4,1,1,732898.1913
+2013,Children'sBooks,3,Diary of a Wimpy Kid: Hard Luck Book 8,Jeff Kinney,2013,Harry N. Abrams,224,14.99,0,2,0,0,1,0,0,6.25E+04
+2013,Literature&Fiction,6,Inferno,Catherine Cho,2020,Henry Holt and Co. ,244,26.99,0,3,1,1,1,0,0,65724.9
+2013,Children'sBooks,3,The House of Hades (Heroes of Olympus Book 4),Rick Riordan,2019,Disney-Hyperion,608,9.99,0,0,1,0,1,0,0,9.83E+04
+2013,Politics&SocialSciences,7,Things That Matter: Three Decades of Passions・,Charles Krauthammer,2013,Crown Forum,400,28,0,1,0,1,1,0,0,7458.27181
+2013,Biographies&Memoirs,1,Killing Jesus (Bill O'Reilly's Killing Series),Bill O'Reilly,2017,Henry Holt and Co.,304,35,0,0,0,0,1,0,0,115500
+2013,Religion&Spirituality,0,Proof of Heaven: A Neurosurgeon's Journey into・,Eben Alexander,2012,Simon & Schuster,196,17,0,0,0,1,2,0,1,109953.91
+2013,Politics&SocialSciences,7,David and Goliath: Underdogs Misfits and the・,Malcolm Gladwell,2013,Little Brown and Company ,352,18,0,0,0,0,1,0,0,61490
+2013,Literature&Fiction,6,Game of Thrones Boxed Set: A Game of Thrones・,George R. R. Martin,2013,Bantam,5216,49.95,0,2,0,0,3,1,1,490222.5124
+2013,Literature&Fiction,6,And the Mountains Echoed,Khaled Hosseini,2014,Riverhead Books,448,16.99,1,4,1,0,1,0,0,62900
+2013,Comics&GraphicNovels,6,The Legend of Zelda: Hyrule Historia,Patrick Thorpe (Editor,2013,Dark Horse Books,280,39.99,0,0,0,1,1,0,0,10516.6303
+2013,Literature&Fiction,6,Doctor Sleep,Stephen King,2014,Scribner,760,18,0,0,1,0,1,0,0,13357569.9
+2013,History,7,George Washington's Secret Six: The Spy Ring・,Brian Kilmeade,2016,Sentinel,320,9.99,0,1,1,1,1,0,0,5164.100315
+2013,Literature&Fiction,6,Sycamore Row (Jake Brigance),John Grisham,2013,Doubleday,464,9.99,0,4,0,0,1,0,0,5.35E+04
+2013,CookbooksFood&Wine,4,Wheat Belly: Lose the Wheat Lose the Weight・,William Davis,2019,Rodale Books,400,17.99,0,1,0,1,2,0,1,39943633.89
+2013,CookbooksFood&Wine,4,The Pioneer Woman Cooks: A Year of Holidays:・,Ree Drummond,2013,William Morrow Cookbooks,400,29.99,0,0,1,0,1,0,0,1.99E+05
+2013,Biographies&Memoirs,1,Happy Happy Happy: My Life and Legacy as the・,Phil Robertson,2013,Howard Books,240,24.99,0,0,0,1,1,0,0,146410
+2013,Literature&Fiction,6,Joyland (Hard Case Crime),Stephen King,2019,Hard Case Crime,283,7.99,0,0,1,0,1,0,0,37268000
+2013,Literature&Fiction,6,Fifty Shades of Grey: Book One of the Fifty・,E. L. James,2012,Vintage Books,253,15.95,0,0,0,1,2,0,1,92928000
+2013,HealthFitness&Dieting,5,Shred: The Revolutionary Diet: 6 Weeks 4 Inches・,Ian K. Smith,2014,Griffin,288,16.99,1,0,0,1,1,0,0,260419.467
+2013,Literature&Fiction,6,Hyperbole and a Half: Unfortunate Situations・,Allie Brosh,2013,Gallery Books,384,21,0,1,1,1,1,0,0,6911.446971
+2013,Business&SelfHelp,2,The Five Dysfunctions of a Team: A Leadership・,Patrick Lencioni,2002,Jossey-Bass,229,24.95,0,0,0,0,6,1,1,14032.14671
+2013,Literature&Fiction,6,Ender's Game (The Ender Quintet),Orson Scott Card,2008,Tor Science Fiction,352,7.99,0,0,0,1,1,0,0,27671.49
+2013,Literature&Fiction,6,The Cuckoo's Calling (A Cormoran Strike Novel 1),Robert Galbraith,2013,Sphere ,561,10.99,0,0,0,1,1,0,0,0
+2013,Politics&SocialSciences,7,America the Beautiful: Rediscovering What Made・,Ben Carson MD,2014,Zonderva,253,16.99,0,0,1,1,1,0,0,43048.9323
+2013,Politics&SocialSciences,7,The Liberty Amendments: Restoring the・,Mark R. Levin,2014,Threshold Editions,272,16,0,0,1,0,1,0,0,94859.039
+2013,Religion&Spirituality,0,ZEALOT: The Life and Times of Jesus of Nazareth,Reza Aslan,2014,Random House Trade Paperbacks,336,18,0,1,0,1,1,0,0,10815.37991
+2013,Biographies&Memoirs,1,SI-COLOGY 1: Tales and Wisdom from Duck・,Si Robertson,2013,Howard Books,231,22.99,0,0,0,1,1,0,0,188868.9
+2013,CookbooksFood&Wine,4,IT'S ALL GOOD: Delicious Easy Recipes That Will・,Gwyneth Paltrow,2013,Grand Central Life & Style,303,35,0,0,1,1,1,0,0,278237.8275
+2013,Business&SelfHelp,2,Outliers: The Story of Success,Malcolm Gladwell,2011,Back Bay Books,336,17.99,0,0,0,0,3,1,1,38974.342
+2013,CookbooksFood&Wine,4,Jerusalem: A Cookbook,Yotam Ottolenghi,2012,Ten Speed Press ,320,35,0,0,0,1,1,0,0,42592
+2013,HealthFitness&Dieting,5,Becoming a Supple Leopard: Movement・,Kelly Starrett,2015,Victory Belt Publishing,480,59.95,0,1,0,1,1,0,0,8379.48353
+2013,Biographies&Memoirs,1,I Am Malala: The Girl Who Stood Up for・,Malala Yousafzai,2015,Back Bay Books,368,17.99,0,1,1,1,1,0,0,77400
+2013,Literature&Fiction,6,The Perks of Being a Wallflower,Stephen Chbosky,2012,MTV Books,224,15.99,0,0,1,1,1,0,0,17573.88512
+2013,CookbooksFood&Wine,4,Practical Paleo: A Customized Approach to・,Diane Sanfilippo,2016,Victory Belt Publishing,480,39.95,0,0,1,1,1,0,0,2767.178282
+2013,Literature&Fiction,6,Fifty Shades Trilogy (Fifty Shades of Grey / Fifty・,E. L. James,2012,Vintage,1625,19.7,0,0,0,1,2,0,1,125941882
+2013,HealthFitness&Dieting,5,The FastDiet: Lose Weight Stay Healthy and Live・,Dr Dr Michael Mosley,2015,Atria Books,256,16.99,0,0,1,1,1,0,0,33637.49975
+2013,Politics&SocialSciences,7,The Bully Pulpit: Theodore Roosevelt William・,Doris Kearns Goodwin,2015,Simon & Schuster,750,22,0,0,0,0,1,0,0,12023.58451
+2013,Teen&Youngadult,6,The Hunger Games (Book 1),Suzanne Collins,2014,Scholastic Press,374,12.99,0,0,1,0,3,1,1,154125.807
+2013,Reference,0,ObamaCare Survival Guide: The Affordable Care・,Nick J. Tate,2012,Humanix Books,229,19.99,1,0,0,1,1,0,0,77064.9
+2013,Religion&Spirituality,0,The Harbinger: The Ancient Mystery that Holds・,Jonathan Cahn,2012,Frontline ,272,16.99,0,2,0,1,2,0,1,16500
+2013,MedicalBooks,5,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2011,Crown ,381,17,1,5,0,0,3,1,1,3916.921371
+2013,Literature&Fiction,6,Fifty Shades Darker,E. L. James,2012,Vintage,544,15.95,0,0,0,1,2,0,1,52663677
+2013,HealthFitness&Dieting,5,Eat to Live: The Amazing Nutrient-Rich Program・,Joel Fuhrman MD,2011,Little Brown Spark,400,17.99,0,0,1,1,4,1,1,4251.7464
+2013,CookbooksFood&Wine,4,Forks Over Knives！The Cookbook: Over 300・,Del Sroufe,2012,The Experiment,368,15.95,0,1,1,1,2,0,1,0
+2013,Literature&Fiction,6,Fifty Shades Freed: Book Three of the Fifty・,E. L. James,2012,Vintage,592,15.95,0,0,0,1,2,0,1,26927727.2
+2013,CookbooksFood&Wine,4,Wheat Belly Cookbook: 150 Recipes to Help You・,William Davis,2012,Rodale Books,322,27.99,0,1,0,1,1,0,0,660615.0969
+2013,Science&Math,7,MyMathLab: Student Access Kit,Hall H Pearson Education,2003,Pearson,365,72.99,0,0,0,1,1,0,0,103476.878
+2013,Business&SelfHelp,2,The Power of Habit: Why We Do What We Do in・,Charles Duhigg,1994,Random House,371,18,0,0,1,1,2,0,1,4837.7
+2013,Biographies&Memoirs,1,The Reason I Jump: The Inner Voice of a Thirteen・,Naoki Higashida,2016,Random House Trade Paperbacks,208,18,0,2,1,1,1,0,0,1555.076246
+2013,Business&SelfHelp,2,Strengths Based Leadership: Great Leaders・,Tom Rath,2009,Gallup Press,266,40,0,0,0,0,3,1,1,67600
+2013,Reference,0,Kaplan GRE Premier 2014 with 6 Practice Tests:・,Kaplan,2013,Kaplan Publishing,504,34.99,0,0,1,1,1,0,0,25300000
+2013,Literature&Fiction,6,The Longest Ride,Nicholas Sparks,2014,Grand Central Publishing,496,9.99,0,0,0,0,1,0,0,114194.8221
+2013,Business&SelfHelp,2,Life Code: The New Rules for Winning in the Real・,Dr. Phil McGraw,2012,Bird Street Books,135,12.99,0,0,1,0,1,0,0,48581.5
+2013,Children'sBooks,3,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,2011,DK Children,200,24.99,0,1,0,1,3,1,1,1065.363639
+2013,Literature&Fiction,6,A Memory of Light (Wheel of Time Book 14)・,Robert Jordan,2020,Tor Books,284,10.99,0,0,0,0,2,0,1,5.71E+05
+2012,Literature&Fiction,6,Catching Fire (The Hunger Games),Suzanne Collins,2020,Scholastic Press,391,12.99,0,0,1,0,2,0,1,129394.8154
+2012,Literature&Fiction,6,Mockingjay (The Hunger Games),Suzanne Collins,2014,Scholastic Press,390,12.99,0,0,1,0,2,0,1,142256.3483
+2012,Children'sBooks,3,The Third Wheel (Diary of a Wimpy Kid Book 7),Jeff Kinney,2012,Harry N. Abrams,224,14.99,0,0,0,0,1,0,0,4.93E+04
+2012,Biographies&Memoirs,1,No Easy Day: The Autobiography of a Navy Seal:・,Mark Owen,2013,DUTTON Books,336,26.95,0,0,1,1,1,0,0,324195.663
+2012,Literature&Fiction,6,The Hunger Games Trilogy Boxed Set (1),Suzanne Collins,2014,Scholastic Press,1408,38.97,0,4,1,0,2,0,1,172763.8
+2012,Children'sBooks,3,The Mark of Athena (Heroes of Olympus Book 3),Rick Riordan,2019,Disney-Hyperion,672,9.99,0,0,1,0,1,0,0,6.63E+04
+2012,Biographies&Memoirs,1,Killing Kennedy: The End of Camelot,Bill O'Reilly,1970,Henry Holt and Co.,336,9.99,0,0,0,0,1,0,0,115500
+2012,Biographies&Memoirs,1,Killing Lincoln: The Shocking Assassination that・,Bill O'Reilly,2011,Henry Holt and Co.,336,15.99,0,0,0,0,2,0,1,77753.81229
+2012,CookbooksFood&Wine,4,Barefoot Contessa Foolproof: Recipes You Can・,Ina Garten,2012,Clarkson Potter,272,35,0,0,1,0,1,0,0,62748.69062
+2012,Literature&Fiction,6,The Casual Vacancy,J.K. Rowling,2012,"Little, Brown and Company",503,18,0,0,1,0,1,0,0,12320000
+2012,Biographies&Memoirs,1,Steve Jobs,Walter Isaacson,2012,Simon & Schuster,656,22,0,0,0,0,2,0,1,34940.4976
+2012,Literature&Fiction,6,The Racketeer,John Grisham,2012,Dell ,353,9.99,0,0,0,0,1,0,0,5.58E+04
+2012,HealthFitness&Dieting,5,The Blood Sugar Solution: The UltraHealthy・,Mark Hyman M.D.,2014,Little Brown Spark,448,17.99,0,0,1,1,1,0,0,39364.08542
+2012,Teen&Youngadult,6,The Serpent's Shadow (The Kane Chronicles・,Rick Riordan,2017,Disney-Hyperio,253,9.99,0,0,1,0,1,0,0,4.90E+04
+2012,Religion&Spirituality,0,One Thousand Gifts: A Dare to Live Fully Right・,Ann Voskamp,2012,Zondervan,96,12.99,0,1,1,1,2,0,1,5931.629632
+2012,Biographies&Memoirs,1,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,2013,Vintage,315,16.95,2,7,0,1,1,0,0,10678.96971
+2012,Literature&Fiction,6,Winter of the World: Book Two of the Century・,Ken Follett,2012,Berkley,960,10.99,0,3,0,0,1,0,0,80251.7133
+2012,CookbooksFood&Wine,4,The Pioneer Woman Cooks: Food from My Frontier,Ree Drummond,2012,William Morrow Cookbooks,304,29.99,0,2,1,0,1,0,0,1.44E+05
+2012,Biographies&Memoirs,1,Thomas Jefferson: The Art of Power,Jon Meacham,2013,Random House,1016,22,0,0,0,0,1,0,0,8680.6489
+2012,Politics&SocialSciences,7,The Amateur,David Halberstam,1996,Ballantine Books,221,11.99,0,0,0,0,1,0,0,5733.4156
+2012,CookbooksFood&Wine,4,The Smitten Kitchen Cookbook: Recipes and・,Deb Perelman,2012,Knopf,336,35,0,0,1,1,1,0,0,4131.280252
+2012,Literature&Fiction,6,The Walking Dead: Compendium One,Robert Kirkman,2009,Image Comics,1088,59.99,0,0,0,1,1,0,0,31958.96044
+2012,Business&SelfHelp,2,The Signal and the Noise: Why So Many・,Nate Silver,2015,Penguin Books,576,20,0,2,0,1,1,0,0,87244.06457
+2012,Literature&Fiction,6,How to Tell If Your Cat Is Plotting to Kill You・,The Oatmeal,2012,Andrews McMeel Publishing,136,14.99,0,3,1,1,1,0,0,559476.6794
+2012,Literature&Fiction,6,A Dance with Dragons (A Song of Ice and Fire),George R. R. Martin,2013,Bantam,1016,9.99,0,0,0,1,2,0,1,209366.3
+2012,Politics&SocialSciences,7,America Again: Re-becoming the Greatness We・,Stephen Colbert,2012,Grand Central Publishing,356,18,0,0,0,0,1,0,0,188429.67
+2012,Children'sBooks,3,LEGO NINJAGO: Character Encyclopedia,DK,2016,DK Children,224,18.99,0,0,0,1,1,0,0,69880995.21
+2012,Eduation&Teaching,0,Teach Like a Champion: 49 Techniques that Put・,Doug Lemov,2015,Jossey-Bass,352,25.69,0,0,0,0,2,0,1,1961.894
+2012,Literature&Fiction,6,Bared to You,Sylvia Day,2012,Berkley ,337,17,0,2,1,1,1,0,0,272235.7789
+2012,HealthFitness&Dieting,5,The 17 Day Diet: A Doctor's Plan Designed for・,Mike Moreno,2011,Free Press,256,25,0,0,0,1,2,0,1,138664.911
+2012,Religion&Spirituality,0,Crazy Love: Overwhelmed by a Relentless God,Francis Chan,2013,David C Cook,224,24.99,0,0,1,0,3,1,1,209366.3
+2012,Literature&Fiction,6,Go the F**k to Sleep,Adam Mansbach,2011,Akashic Books,32,15.95,0,2,0,1,2,0,1,1564.288363
+2012,Biographies&Memoirs,1,Bring Up the Bodies,Hilary Mantel,2013,Picador,432,18,0,4,1,0,1,0,0,16119.78785
+2012,Business&SelfHelp,2,Great by Choice: Uncertainty Chaos and Luck・,Jim Collins,2011,Harper Business,320,29.99,0,0,0,0,1,0,0,237938.3579
+2012,Literature&Fiction,6,Reflected in You (Crossfire Book 2),Sylvia Day,2012,Berkley,353,16,0,2,1,1,1,0,0,238152.7168
+2012,Business&SelfHelp,2,Who Moved My Cheese,Spencer Johnson,1998,G. P. Putnam's Sons,96,22,0,0,0,0,2,0,1,377271.6306
+2012,Business&SelfHelp,2,A Guide to the Project Management Body of・,Project Management Institut,2017,Project Management Institute,756,98.99,0,0,0,1,2,0,1,34661831.06
+2012,History,7,Behind the Beautiful Forevers: Life Death and・,Katherine Boo,2014,Random House Trade Paperbacks,288,17.99,1,7,1,1,1,0,0,22722.04139
+2012,Literature&Fiction,6,Deadlocked (Sookie Stackhouse/True Blood・,Charlaine Harris,2015,Ace,327,7.99,0,0,0,0,1,0,0,1.60E+04
+2012,CookbooksFood&Wine,4,Forks Over Knives: The Plant-Based Way to Health,Gene Stone (Editor,2011,The Experiment,224,14.95,0,0,0,1,2,0,1,62164.07549
+2012,Literature&Fiction,6,Notorious Nineteen: A Stephanie Plum Novel,Janet Evanovich,2012,Bantam,322,8.99,0,1,1,0,1,0,0,1.26E+04
+2012,CookbooksFood&Wine,4,The 4-Hour Chef: The Simple Path to Cooking・,Timothy Ferriss,2012,Houghton Mifflin Harcourt,672,19.99,1,0,0,0,1,0,0,5.45E-02
+2012,Literature&Fiction,6,Cloud Atlas,David Mitchell,2004,Random House Trade,509,15,2,0,0,0,1,0,0,125473370
+2012,Religion&Spirituality,0,Help Thanks Wow: The Three Essential Prayers,Anne Lamott,2012,Riverhead Books,102,17.95,0,0,1,1,1,0,0,1.54E+04
+2012,Religion&Spirituality,0,To Heaven and Back: A Doctor's Extraordinary・,Mary C. Neal,2012,WaterBrook,240,16,0,2,0,1,1,0,0,1.04E+05
+2012,Literature&Fiction,6,A Memory of Light (Wheel of Time Book 14)・,Robert Jordan,2012,Tor Books,1150,10.99,0,0,0,0,2,0,1,1.05E+07
+2012,Children'sBooks,3,Cabin Fever (Diary of a Wimpy Kid Book 6),Jeff Kinney,2011,Harry N. Abrams,224,14.99,0,0,0,0,2,0,1,6.00E+04
+2012,Business&SelfHelp,2,The 7 Habits of Highly Effective Teens: The・,Sean Covey,1999,Simon & Schuster,288,13.99,0,1,1,0,2,0,1,1.12E+04
+2012,History,7,The Passage of Power: The Years of Lyndon・,Robert A. Caro,2012,Vintage,768,18.95,1,11,0,0,1,0,0,2.49E+05
+2012,CookbooksFood&Wine,4,The Pioneer Woman Cooks: Recipes from an・,Ree Drummond,2009,William Morrow Cookbooks,256,29.99,0,2,1,0,3,1,1,9.99E+06
+2012,Religion&Spirituality,0,Divine Healing Hands: Experience Divine Power・,Zhi Gang Sha,2012,Atria Books,352,19.95,0,0,0,0,1,0,0,6.86E+03
+2012,HealthFitness&Dieting,5,The China Study: The Most Comprehensive Study・,T. Colin Campbell,2004,BenBella Books,496,17.95,0,1,0,1,2,0,1,1.19E+05
+2012,Religion&Spirituality,0,The Meaning of Marriage: Facing the・,Timothy Keller,2011,Penguin Books,352,18,0,1,0,0,1,0,0,6.82E+04
+2011,Teen&Youngadult,6,Inheritance: Book IV (Inheritance Cycle),Christopher Paolini,2011,Knopf Books for Young Readers,399,15.99,0,0,1,0,1,0,0,2.53E+04
+2011,Teen&Youngadult,6,The Son of Neptune (Heroes of Olympus Book 2),Rick Riordan,2011,Disney-Hyperion,560,9.99,0,0,1,0,1,0,0,2.21E+05
+2011,Literature&Fiction,6,The Help,Kathryn Stockett,2011,Berkley,544,17,0,4,1,0,3,1,1,6.04E+03
+2011,Literature&Fiction,6,11/22/63,Stephen King,2011,Scribner,849,20.99,0,0,1,0,1,0,0,905451.9
+2011,Travel,0,Cutting for Stone,Abraham Verghese,2010,Vintage,667,17.95,1,6,0,0,1,0,0,4.57E+03
+2011,Biographies&Memoirs,1,Tina Fey: Bossypants,Tina Fey,2011,"Little, Brown",272,16.99,0,0,1,1,1,0,0,7.02E+04
+2011,HealthFitness&Dieting,5,The 4 Hour Body: An Uncommon Guide to Rapid・,Timothy Ferriss,2010,Harmony,592,28,0,0,0,0,1,0,0,8.70E+03
+2011,Biographies&Memoirs,1,In the Garden of Beasts: Love Terror and an・,Erik Larson,2011,Crown,448,18,1,11,0,0,1,0,0,4.39E+04
+2011,Biographies&Memoirs,1,A Stolen Life: A Memoir,Jaycee Dugard,2011,Simon & Schuste,314,17,0,0,1,1,1,0,0,1.90E+03
+2011,Literature&Fiction,6,The Girl Who Kicked the Hornet's Nest・,Simon Vance (Narrator,2010,Knopf,602,9.99,0,0,0,1,1,0,0,3.94E+03
+2011,Literature&Fiction,6,Water for Elephants,Sara Gruen,2007,Algonquin Books ,368,15.95,0,3,0,0,1,0,0,7.67E+03
+2011,HealthFitness&Dieting,5,The Dukan Diet: 2 Steps to Lose the Weight 2・,Pierre Dukan,2011,Crown Archetype,304,27,0,0,1,1,1,0,0,7.25E+03
+2011,Literature&Fiction,6,The Throne of Fire (The Kane Chronicles Book 2),Rick Riordan,2011,Disney-Hyperion,528,18.99,0,0,1,0,1,0,0,5.29E+04
+2011,Literature&Fiction,6,Dead Reckoning (Sookie Stackhouse/True Blood・,Charlaine Harris,2011,Ace,264,7.99,0,0,0,0,1,0,0,1.34E+04
+2011,Literature&Fiction,6,The Litigators,John Grisham,2011,Dell,401,9.99,0,0,0,0,1,0,0,4.09E+04
+2011,Religion&Spirituality,0,Love Wins: A Book About Heaven Hell and the・,Rob Bell,2011,HarperOne,224,15.99,0,3,0,1,1,0,0,1.27E+05
+2011,Literature&Fiction,6,The Paris Wife,Paula McLain,2011,Ballantine Books ,331,17,1,4,1,1,1,0,0,7.67E+03
+2011,Religion&Spirituality,0,Radical: Taking Back Your Faith from the・,David Platt,2010,Multnomah,240,14.99,0,0,0,0,1,0,0,3.20E+05
+2011,Literature&Fiction,6,The Art of Racing in the Rain,Garth Stein,2009,Harper Perennial,321,9.99,0,0,0,0,1,0,0,1.66E+04
+2011,Literature&Fiction,6,The Best of Me,Nicholas Sparks,2011,Grand Central Publishing,725,30,0,0,0,0,1,0,0,81027.65702
+2011,Biographies&Memoirs,1,Jacqueline Kennedy: Historic Conversations on・,Hachette Books ,2011,Hachette Books ,356,5.99,0,0,1,1,1,0,0,64307.6643
+2011,Literature&Fiction,6,The Girl with the Dragon Tattoo (Millennium・,Stieg Larsson,2008,Vintage Crime,278,9.99,0,0,0,0,3,1,1,3.26E+04
+2011,Biographies&Memoirs,1,The Greater Journey: Americans in Paris,David McCullough,2011,Simon & Schuster,578,22,0,3,1,0,1,0,0,9.43E+04
+2011,Business&SelfHelp,2,Switch: How to Change Things When Change Is・,Chip Heath,2010,Crown Business,305,29,1,6,0,0,1,0,0,6.12E+04
+2011,Children'sBooks,3,Every Thing On It,Shel Silverstein,2011,HarperCollins,208,7.3,0,0,0,1,1,0,0,1.70E+04
+2011,Teen&Youngadult,6,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,2011,Quirk Books,382,10.99,0,3,0,1,1,0,0,9.88E+03
+2011,Business&SelfHelp,2,Moonwalking With Einstein: The Art and Science・,Joshua Foer,2011,Penguin Books,307,17.99,2,7,0,1,1,0,0,5.22E+03
+2011,Literature&Fiction,6,1Q84,Haruki Murakami,2011,Knopf,928,18,0,0,0,1,1,0,0,4.88E+04
+2011,Politics&SocialSciences,7,Boomerang: Travels in the New Third World,Michael Lewis,2011,W. W. Norton & Company,224,16.95,0,0,1,0,1,0,0,10074867.4
+2011,Reference,0,Elder Scrolls V: Skyrim: Prima Official Game Guide,David Hodgson,2011,Prima Games,656,68.96,0,0,0,1,1,0,0,6.89E+04
+2011,Business&SelfHelp,2,The 4-Hour Workweek: Escape 9-5 Live・,Timothy Ferriss,2011,Harmony,254,24.99,0,0,0,0,1,0,0,9.15E+03
+2011,Biographies&Memoirs,1,Through My Eyes,Tim Tebow,2011,Independently published ,72,17.99,0,0,0,1,1,0,0,20765.4466
+2011,Literature&Fiction,6,The Land of Painted Caves,Jean M. Auel,2011,Bantam,278,8.99,0,0,1,0,1,0,0,9.06E+03
+2011,Politics&SocialSciences,7,The Social Animal: The Hidden Sources of Love・,David Brooks,2011,Random Hous,468,18,0,0,1,1,1,0,0,499580.2
+2011,Children'sBooks,3,Guinness World Records 2012,Guinness World Records,2011,Guinness World Records ,288,28.95,0,0,0,1,1,0,0,2.09E+05
+2011,Literature&Fiction,6,State of Wonder,Ann Patchett,2011,Harper,235,15.99,0,0,1,0,1,0,0,1.15E+04
+2011,Literature&Fiction,6,A Visit from the Goon Squad,Jennifer Egan,2011,Anchor,352,20,1,7,1,1,1,0,0,3.77E+04
+2011,HealthFitness&Dieting,5,Prevent and Reverse Heart Disease: The・,Ann Crile Esselstyn,2007,Avery,288,26,0,0,0,1,1,0,0,1.26E+02
+2011,Literature&Fiction,6,Explosive Eighteen: A Stephanie Plum Novel・,Janet Evanovich,2011,Bantam,354,8.99,0,1,1,0,1,0,0,1.10E+04
+2011,Business&SelfHelp,2,Delivering Happiness: A Path to Profits Passion・,Tony Hsieh,2010,Grand Central Publishing,272,17,0,0,0,0,1,0,0,2.68E+04
+2011,Teen&Youngadult,6,The Lost Hero (Heroes of Olympus Book 1),Rick Riordan,2010,Disney-Hyperion,592,1.99,0,0,1,0,1,0,0,4.34E+04
+2011,Literature&Fiction,6,Room,Emma Donoghue,2011,Back Bay Books,352,16.99,0,4,0,1,1,0,0,2.62E+04
+2011,Literature&Fiction,6,Hotel on the Corner of Bitter and Sweet,Jamie Ford,2009,Ballantine Books,301,17,0,0,1,0,1,0,0,1.79E+05
+2011,Business&SelfHelp,2,The Tipping Point: How Little Things Can Make a・,Malcolm Gladwell,2006,Turtleback Books ,304,21.65,0,0,1,1,3,1,1,83025.69615
+2011,Literature&Fiction,6,The Girl Who Played with Fire (Millennium Series),Stieg Larsson,2009,Vintage Crime/Black Lizard,631,9.99,0,0,0,0,1,0,0,3.26E+04
+2011,CookbooksFood&Wine,4,Hungry Girl 300 Under 300: 300 Breakfast・,Lisa Lillien,2011,St. Martin's Griffin,560,11.99,0,1,1,0,1,0,0,9.93E+02
+2011,Business&SelfHelp,2,Getting Things Done: The Art of Stress-Free・,David Allen,2011,Penguin Books,436,26,0,0,2,0,2(2009),2,1,20071786.13
+2011,Children'sBooks,3,The Invention of Hugo Cabret,Brian Selznick,2007,Scholastic Press,533,24.99,0,4,2,1,1,0,0,13440.30184
+2011,Business&SelfHelp,2,Now Discover Your Strengths,Gallup,2001,Gallup Press,320,39.95,0,0,0,0,2(2019),2,1,305800
+2011,Business&SelfHelp,2,Drive: The Surprising Truth About What・,Daniel H. Pink,2011,Riverhead Books ,288,17,0,3,2,0,1,0,0,257016.2983
+2011,Literature&Fiction,6,Smokin' Seventeen (Stephanie Plum),Janet Evanovich,2011,Bantam,353,8.99,0,1,1,0,1,0,0,4.81E+03
+2011,Politics&SocialSciences,7,The Big Short: Inside the Doomsday Machine,Michael Lewis,2011,W. W. Norton & Company,291,15.95,0,1,1,0,1,0,0,64324813
+2011,HealthFitness&Dieting,5,Born to Run: A Hidden Tribe Superathletes and・,Christopher McDougall,2011,Vintage,304,16.95,0,2,0,0,3,1,1,43780
+2011,Reference,0,The Official Guide for GMAT Review,GMAC (Graduate Management Admission Council),2010,Wiley,1760,81.95,0,0,2,1,1,0,0,22000

@@ -1,0 +1,61 @@
+Rank (2012)	Rank (2011)	Publishing Company (Group or Division)	Country Publ. Company	Mother Corporation or Owner	Country Mother Corporation	2012 Revenue in $M	2011 Revenue in $M	
+1	1	Pearson	UK	Pearson (corp.)	UK	$9,158	$8,411	
+2	2	Reed Elsevier	UK/NL/US	Reed Elsevier (corp.)	UK/NL/US	$5,934	$5,686	
+3	3	ThomsonReuters	US	The Woodbridge Company Ltd.	Canada	$5,386	$5,435	
+4	4	Wolters Kluwer	NL	Wolters Kluwer	NL	$4,766	$4,360	
+5	8	Random House	Germany	Bertelsmann AG	Germany	$3,328	$2,274	
+6	5	Hachette Livre	France	Lagardère	France	$2,833	$2,649	
+7	6	Grupo Planeta	Spain	Grupo Planeta	Spain	$2,597	$2,304	
+8	7	McGraw-Hill Education	US	The McGrawHill companies	US	$2,292*	$2,292	
+9	9	Holtzbrinck	Germany	Verlagsgruppe Georg von Holtzbrinck	Germany	$2,220	$1,952	
+10	10	Scholastic (corp.)	US	Scholastic	US	$2,148	$1,906	
+11	11	Cengage	US	Apax Partners et al.	US/Canada	$1,993	$1,876	
+12	12	Wiley	US	Wiley	US	$1,783	$1,743	
+13	13	De Agostini Editore	Italy	Gruppo De Agostini	Italy	$1,724*	$1,724	
+14	14	Shueisha	Japan	Hitotsubashi Group	Japan	$1,464	$1,714	
+15	15	Kodansha	Japan	Kodansha	Japan	$1,368	$1,551	
+16	19	Springer Science and Business Media	Germany	EQT and GIC Investors	Sweden, Singapore	$1,298	$1,138	
+17	18	Houghton Mifflin Harcourt	US	Education Media and Publishing Group Limited	US/Cayman Islands	$1,286	$1,295	
+18	16	Shogakukan	Japan	Hitotsubashi Group	Japan	$1,254	$1,444	
+19	20	Harper Collins	US	News Corporation	US	$1,189	$1,100 (est.)	
+20	21	Informa	UK	Informa plc	UK	$1,126	$1,069	
+21	23	Oxford University Press	UK	Oxford University	UK	$1,125	$1,004	
+22	NEW	China Publishing Group Corporate	China (PR)	Government; partly publicly listed	China (PR)	$1,104	n/a	
+23	NEW	Phoenix Publishing and Media Company	China (PR)	Government; partly publicly listed	China (PR)	$1,076	n/a	
+24	26	Kadokawa Publishing	Japan	Kadokawa Holdings Inc.	Japan	$1,000	$904	
+25	24	Grupo Santillana	Spain	PRISA	Spain	$985	$936	
+26	25	Bonnier	Sweden	The Bonnier Group	Sweden	$968	$909	
+27	22	Gakken	Japan	Gakken Co. Ltd.	Japan	$937	$1,043	
+28	28	Egmont Group	Denmark/Norway	Egmont International Holding A/S	Denmark	$792	$703	
+29	27	Simon & Schuster	US	CBS	US	$790	$787	
+30	37	China Education and Media Group (form. Higher Education Press)	China (PR)	China Education and Media Group	China (PR)	$702	$445	
+31	29	Woongjin ThinkBig	Korea	Woongjin Holding	Korea	$667	$685	
+32	31	Klett	Germany	Klett Gruppe	Germany	$604	$594	
+33	32	Cornelsen	Germany	Cornelsen	Germany	$577	$558	
+34	17	Readers Digest	US	RDA Holding Co.	US	$533	$1,438	
+35	33	Mondadori	Italy	The Mondadori Group	Italy	$511	$506	
+36	34	Messagerie / GeMS (Gruppo editoriale Mauri Spagnol)	Italy	Messagerie Italiane	Italy	$491	$494	
+37	39	Media Participations	France	Media Participations	Belgium	$455	$442	
+38	35	Lefebvre-Sarrut	France	Frojal	France	$447	$467	
+39	40	Abril Educação	Brazil	Abril group	Brazil	$432	$411	
+40	36	Harlequin	Canada	Torstar Corp.	Canada	$428	$450	
+41	37	Sanoma	Finland	Sanoma WSOY	Finland	$426	$446	
+42	41	Perseus	USA	Perseus	USA	$425	$350	
+43	NEW	Cambridge University Press	UK	Cambridge University Press	UK	$396	n/a	
+44	42	Westermann Verlagsgruppe	Germany	Medien Union (Rheinland-Pfalz Gruppe)	Germany	$361	$339	
+45	43	La Martinière Groupe	France	La Martinière Groupe	France	$351	$335	
+46	NEW	Flammarion	France	Madrigall	France	$349	$360	
+47	30	RCS Libri	Italy	RCS Media Group	Italy	$333	$667	
+48	46	Groupe Gallimard	France	Madrigall	France	$329*	$329	
+49	48	Kyowon	Korea	Kyowon	Korea	$322	$298	
+50	44	Bungeishunju	Japan	n/a	Japan	$298	$331	
+51	51	Haufe Gruppe	Germany	Priavtely owned	Germany	$291	$269	
+52	49	Weka	Germany	Weka Firmengruppe	Germany	$258	$282	
+53	NEW	OLMA Media Group	Russia	n/a		$257	n/a	
+54	47	Shinchosha	Japan	Privately owned	Japan	$245	$319	
+55	54	EKSMO	Russia	Privately owned	Russia	$232	$195	
+56	excl.	Editions Atlas	France	Gruppo De Agostini	Italy	$230	n/a	
+57	50	Saraiva	Brazil	Saraiva	Brazil	$230	$267	
+58	53	Groupe Albin Michel	France	Groupe Albin Michel	France	$224	$216	
+59	52	Editora FTD	Brazil	Editora FTD	Brazil	$198	$226	
+60	45	AST	Russia	Privately owned	Russia	$194	$330	

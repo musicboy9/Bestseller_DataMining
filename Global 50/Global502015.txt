@@ -1,0 +1,60 @@
+Rank 2015	Rank 2014	Publishing Group or Division	Parent Company	Parent Country	2014 Revenue in $M	2013 Revenue in $M
+1	1	Pearson	Pearson PLC	UK	$7,072	$7,801
+2	3	ThomsonReuters	The Woodbridge Company Ltd.	Canada	$5,760	$5,576
+3	2	RELX Group	Reed Elsevier PLC & Reed Elsevier NV	UK/NL/US	$5,362	$6,093
+4	4	Wolters Kluwer	Wolters Kluwer	NL	$4,455	$4,920
+5	5	Penguin Random House	Bertelsmann AG	Germany	$4,046	$3,664*
+6	NEW	Phoenix Publishing and Media Company	Phoenix Publishing and Media Company	China	$2,840	$2,781
+7	NEW	China South Publishing & Media Group Co., Ltd	China South Publishing & Media Group Co., Ltd	China	$2,579	$2,237
+8	6	Hachette Livre	Lagardere	France	$2,439	$2,851
+9	10	McGraw-Hill Education	Apollo Global Management LLC	US	$2,190 (Est.)	$1,992
+10	7	Holtzbrinck	Verlagsgruppe Georg von Holtzbrinck	Germany	$2,000	$2,222
+11	8	Grupo Planeta	Grupo Planeta	Spain	$1,943	$2,161
+12	11	Scholastic	Scholastic	US	$1,822	$1,792
+12	12	Wiley	Wiley	US	$1,822	$1,761
+14	9	Cengage Learning Holdings II LP	Apax and Omers Capital Partners	US/Canada	$1,708	$1,747
+15	14	China Publishing Group Corporation	China Publishing Group Corporation	China	$1,495	$1,499
+16	16	Harper Collins	News Corp.	US	$1,434	$1,369
+17	15	Houghton Mifflin Harcourt	Houghton Mifflin Harcourt Company	US/Cayman Islands	$1,372	$1,379
+18	13	De Agostini Editore	Gruppo De Agostini	Italy	$1,367	N/A
+19	18	Oxford University Press	Oxford University	UK	$1,181	$1,254
+20	17	Springer Science and Business Media	EQT and GIC Investors;	Sweden, Singapore	$1,167	$1,301
+21	21	China Education Publishing & Media Holdings Co. Ltd.	China Education Publishing & Media Holdings Co. Ltd.	China	$1,108	$1,152
+22	20	Informa	Informa plc	UK	$1,075	$1,185
+23	19	Shueisha	Hitotsubashi Group	Japan	$1,033	$1,191
+24	22	Kodansha Ltd.	Kodansha Ltd.	Japan	$997	$1,143
+25	23	Egmont Group	Egmont International Holding A/S	Denmark	$896	$1,101
+26	25	Shogakukan	Hitotsubashi Group	Japan	$859	$1,011
+27	26	Bonnier	The Bonnier Group	Sweden	$836	$976
+28	24	Grupo Santillana	PRISA SA	Spain	$793	$1,020
+29	27	Kadokawa Publishing	Kadokawa Holdings Inc.	Japan	$793	$900
+30	28	Simon & Schuster	CBS	US	$778	$809
+31	30	Woongjin ThinkBig	Woongjin Holding	Korea	$577	$616
+32	29	Klett	Klett Gruppe	Germany	$560	$622
+33	31	Groupe Madrigall	Madrigall	France	$531	N/A
+34	32	Les Editions Lefebvre-Sarrut	Frojal	France	$482	$559
+35	34	Messagerie / GeMS	Messagerie Italiane	Italy	$460	$543
+36	35	Media Participations	Media Participations	Belgium	$426	$481
+37	36	Mondadori	The Mondadori Group	Italy	$410	$462
+38	39	Cambridge University Press	Cambridge University Press	UK	$409	$433
+39	38	The Perseus Book Group	The Perseus Book Group	USA	$400	N/A
+40	NEW	France Loisirs	ACTISSIA SAS	France	$364	
+40	41	Westermann Verlagsgruppe	Medien Union	Germany	$364	$401
+42	40	Sanoma	Sanoma WSOY	Finland	$355	$422
+43	37	Cornelsen	Cornelsen	Germany	$346	$456
+44	43	Kyowon Co. Ltd.	Kyowon Co. Ltd.	Korea	$312	$353
+45	46	La Martinière	La Martinière	France	$292	$329
+46	48	Haufe Gruppe	Privately owned	Germany	$285	$315
+46	47	WEKA	WEKA Firmengruppe	Germany	$286	$316
+48	44	RCS Libri	RCS Media Group	Italy	$271	$348
+49	50	Gakken Co. Ltd.	Gakken Co. Ltd.	Japan	$257	$297
+50	51	Bungeishunju Ltd.	Bungeishunju Ltd.	Japan	$216	$253
+51	49	OLMA Media Group	Privately owned	Cyprus	$213	$306
+52	45	EKSMO	Privately owned	Russia	$211	$343
+53	54	Groupe Albin Michel	Groupe Albin Michel	France	$204	$232
+54	56	Saraiva	Saraiva	Brazil	$199	$215
+55	NEW	Editora FTD	Editora FTD	Brazil	$198	$199
+56	55	Abril Educação	Abril group	Brazil	$196	$216
+57	52	Shinchosha Publishing Co, Ltd.	Shinchosa Publishing Co, Ltd.	Japan	$176	N/A
+						
+Not ranked		Harlequin	Torstar Corp.	Canada	$343	$374					
